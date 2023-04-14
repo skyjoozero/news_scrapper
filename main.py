@@ -1,11 +1,12 @@
 import requests
 import json
+import re
 from collections import OrderedDict
 import pprint
 from time import sleep
 from bs4 import BeautifulSoup as bs
 
-date = '20230412'
+date = '20230414'
 
 
 mainUrl = 'https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid2=258&sid1=101&date=' + date + '&page='
@@ -17,21 +18,28 @@ def getSoup(urlString):
     mainPage = requests.get(urlString, headers=headers)
     return bs(mainPage.content, "html.parser")
 
-def getNewsTitles(contents):
+def getNewsTitlesAndUrlHTMLArray(newses):
+    for news in newses:
+        tempSoup = bs(str(news), "html.parser")
+        if tempSoup.getText() == '' or tempSoup.find('img'):
+            newses.remove(news)
+    # newses = [str(news).strip('\n\t') for news in newses]
+    return newses
+
+def findTitleUrl(data):
+    returnData = []
+    for tag in data:
+        tempSoup = bs(str(tag), 'html.parser')
+        returnData.append([tempSoup.getText(), tempSoup.find('a')['href']])
+    return returnData
+
+def getNewsWriter(contents):
     arr = []
 
-    for el in contents.find_all('a'):
+    for el in contents.find_all('span', 'writing'):
         arr.append(el.get_text().strip())
-    arr = [x for x in arr if (x != '' and x != '동영상기사')]
-
-    return arr
-def getNewsUrls(contents):
-    arr = []
-
-    for el in contents.find_all('a'):
-        arr.append(el['href'])
-    arr = list(dict.fromkeys(arr))
-
+    print(arr)
+    print(len(arr))
     return arr
 
 def returnJsonData():
@@ -46,19 +54,27 @@ def returnJsonData():
         if str(page) != pageNum:
             break
         else:
+            print('page: ' + pageNum)
+
+            newses = soup.select_one('div.newsflash_body').find_all('a')
+            data = getNewsTitlesAndUrlHTMLArray(newses)
+            newsData = findTitleUrl(data)
+
+            contents = soup.select_one('div.list_body')
+            writer = getNewsWriter(contents)
+            # print('aasd', data[0])
+
+            if len(newsData) == len(writer):
+                for i in range(len(newsData)):
+                    returnData['newsCount'] += 1
+                    returnData['articles'][returnData['newsCount']] = {'title': re.sub('\s+',' ',newsData[i][0]),
+                                                                       'url': re.sub('\s+',' ',newsData[i][1]),
+                                                                       'writer': writer[i]}
+            else:
+                pass  # todo: 오류 발생 시 디코나 다른 연락처로 연락 갈 수 있도록 기능 추가
+
             page = page + 1
             sleep(0.1)
-
-        contents = soup.select_one('div.list_body')
-        titles = getNewsTitles(contents)
-        urls = getNewsUrls(contents)
-        if (len(titles) == len(urls)):
-            for i in range(len(titles)):
-                returnData['newsCount'] += 1
-                returnData['articles'][returnData['newsCount']] = {'title': titles[i],
-                                          'url': urls[i]}
-        else:
-            pass #todo: 오류 발생 시 디코나 다른 연락처로 연락 갈 수 있도록 기능 추가
 
     return json.dumps(returnData, ensure_ascii=False, indent='\t')
 
