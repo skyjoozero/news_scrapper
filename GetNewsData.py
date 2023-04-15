@@ -1,3 +1,5 @@
+import pprint
+
 import requests
 import json
 import re
@@ -12,9 +14,6 @@ class GetNewsData():
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36'
     }
-
-    def _makeUrl(self, date):
-        return 'https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid2=258&sid1=101&date=' + str(date) + '&page='
 
     def _getSoup(self, urlString):
         mainPage = requests.get(urlString, headers=self.headers)
@@ -57,7 +56,8 @@ class GetNewsData():
             print(i)
             articles[i - newsNumber] = articles[i + 1]
         for i in range(-(newsNumber), 0, 1):
-            articles[abs(i + newsNumber)] = articles[i]
+            print(i)
+            articles[abs(i)] = articles[i]
             articles.pop(i)
 
         return jsonData
@@ -76,6 +76,8 @@ class GetNewsData():
 
         while True:
             soup = self._getSoup(mainUrl + str(page))
+            print(mainUrl + str(page))
+            pprint.pprint(soup.select_one('div.paging'))
             pageNum = soup.select_one('div.paging').find('strong').getText()
 
             if str(page) != pageNum:
@@ -113,5 +115,4 @@ class GetNewsData():
         else:
             return json.dumps(self.changeNewsNum(returnData), ensure_ascii=False, indent='\t')
 
-        #todo: 파일 존재 시 기존 파일에 이어서 저장하는 기능
-        # NewsDataToFile.NewsDataFile.writeFile(self.date, json.dumps(returnData, ensure_ascii=False, indent='\t'))
+        #todo: 파일 존재 시 기존 파일에 이어서 저장하는 기능 -> 체크하기

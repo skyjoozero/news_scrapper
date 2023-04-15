@@ -1,0 +1,376 @@
+{
+	"date": "20230415",
+	"newsCount": 74,
+	"articles": {
+		"1": {
+			"title": " [주간사모펀드] '5조 대어' SK팜테코 프리IPO 열린다…투자자 누가 될까 ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000211846?sid=101",
+			"writer": "더팩트"
+		},
+		"2": {
+			"title": " 美 중소은행 위기 속 대형은행들은 '어닝서프라이즈' ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013882004?sid=101",
+			"writer": "연합뉴스"
+		},
+		"3": {
+			"title": " [주식 매매 상위 종목 및 환율] 2023년 4월 14일자 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003757921?sid=101",
+			"writer": "조선일보"
+		},
+		"4": {
+			"title": " [부꾸미]\"AI 기업 1000배 이상 커진다\"…지금 주목할 기업은? ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004875357?sid=101",
+			"writer": "머니투데이"
+		},
+		"5": {
+			"title": " [속보] JP모간 사상최고 분기 실적, 주가 7.55% 급등 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749110?sid=101",
+			"writer": "뉴스1"
+		},
+		"6": {
+			"title": " [속보] 테슬라 전기트럭 출시, 니콜라 15.45% 폭락 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749111?sid=101",
+			"writer": "뉴스1"
+		},
+		"7": {
+			"title": " [속보]은행 호실적에도 소매판매 부진, 미증시 일제 하락…다우 0.42% ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749112?sid=101",
+			"writer": "뉴스1"
+		},
+		"8": {
+			"title": " [속보]\"6월도 인상 가능성\"…기대인플레 급등에 미 증시 약세 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464270?sid=101",
+			"writer": "이데일리"
+		},
+		"9": {
+			"title": " 증시 회복에 증권사 ELS 발행 '꿈틀'… 보름 만에 1조 넘었다 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000913063?sid=101",
+			"writer": "머니S"
+		},
+		"10": {
+			"title": " 은행권 깜짝 실적에도 소매판매 부진 미증시 일제 하락(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749114?sid=101",
+			"writer": "뉴스1"
+		},
+		"11": {
+			"title": " JP모간 사상최고 분기 실적, 주가 7.55% 급등(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749116?sid=101",
+			"writer": "뉴스1"
+		},
+		"12": {
+			"title": " 갈 곳 잃은 자금 MMF로 몰렸다… 올 1분기 대기자금 211조 최고치 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000913067?sid=101",
+			"writer": "머니S"
+		},
+		"13": {
+			"title": " 뉴욕증시, 연준 추가 긴축 우려에 하락…다우 0.4%↓마감 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013882038?sid=101",
+			"writer": "연합뉴스"
+		},
+		"14": {
+			"title": " 美대형은행들 호실적, JP모간 7.55%-시티 4.78% 급등(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749121?sid=101",
+			"writer": "뉴스1"
+		},
+		"15": {
+			"title": " 뉴욕증시, 경제지표·연준 추가 긴축 우려에 하락 마감…다우 0.42%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011804888?sid=101",
+			"writer": "뉴시스"
+		},
+		"16": {
+			"title": " 인플레는 잡혀가는데…고개드는 경기침체 우려 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000015515?sid=101",
+			"writer": "비즈워치"
+		},
+		"17": {
+			"title": " 칼퇴근필수너·막쿠르트…이름도 맛도 튀어야 산다 [똑똑!스마슈머] ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004179288?sid=101",
+			"writer": "서울경제"
+		},
+		"18": {
+			"title": " [재송]14일 장 마감 후 주요 종목 뉴스 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464277?sid=101",
+			"writer": "이데일리"
+		},
+		"19": {
+			"title": " 4월 둘째 주, 마켓PRO 핫종목·주요 이슈 5분 완벽정리 [위클리 리뷰] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833068?sid=101",
+			"writer": "한국경제"
+		},
+		"20": {
+			"title": " 다시 인기 끄는 ELS에 증권사 이벤트도 봇물 ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000893767?sid=101",
+			"writer": "조선비즈"
+		},
+		"21": {
+			"title": " 최대주주 변경 공시 전 100% 뛴 주가...“누가 샀을까” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000893769?sid=101",
+			"writer": "조선비즈"
+		},
+		"22": {
+			"title": " 니콜라 15% 폭락, 주가 1달러 아래로…'페니 주식' 전락(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749130?sid=101",
+			"writer": "뉴스1"
+		},
+		"23": {
+			"title": " 뉴욕증시, 경기둔화 우려에 3대 지수 하락…다우 0.4%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001095609?sid=101",
+			"writer": "한국경제TV"
+		},
+		"24": {
+			"title": " 테슬라 또 가격 인하, 주가 0.48% 하락 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749132?sid=101",
+			"writer": "뉴스1"
+		},
+		"25": {
+			"title": " [뉴욕증시]\"연준 5월 인상 끝 아닐수도\"…기대인플레 공포 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464281?sid=101",
+			"writer": "이데일리"
+		},
+		"26": {
+			"title": " 테슬라 공격적 가격인하로 1분기 순익 20% 줄 것(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749136?sid=101",
+			"writer": "뉴스1"
+		},
+		"27": {
+			"title": " 힘받는 EFT시장...올 상반기 100조 돌파하나 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002703016?sid=101",
+			"writer": "데일리안"
+		},
+		"28": {
+			"title": " 끊이지 않는 잡음 속…비트코인·이더리움은 ‘승승장구’[위클리 코인리뷰] ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043422?sid=101",
+			"writer": "이코노미스트"
+		},
+		"29": {
+			"title": " '커리어·채용 플랫폼 기업' 오픈놀, IPO 채비… 상반기 코스닥 상장 목표 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000913082?sid=101",
+			"writer": "머니S"
+		},
+		"30": {
+			"title": " 뱅크런 남의 일 아니라는 금융·통화당국 수장 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000015518?sid=101",
+			"writer": "비즈워치"
+		},
+		"31": {
+			"title": " 테슬라 가격전쟁, 니콜라 15%-리비안 7% 전기차 일제 급락(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749169?sid=101",
+			"writer": "뉴스1"
+		},
+		"32": {
+			"title": " 뉴욕증시, Fed 추가 긴축 우려에 하락…다우 0.42%↓ [뉴욕증시 브리핑] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833076?sid=101",
+			"writer": "한국경제"
+		},
+		"33": {
+			"title": " [종목현미경]에코프로, 과열 경고에 '뚝'…변동성 확대에 '기대반 걱정반' ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749172?sid=101",
+			"writer": "뉴스1"
+		},
+		"34": {
+			"title": " ‘100일 만에 7.5배’ 몸값 두고 세게 붙었다…‘용자’들의 주식 에코프로 형제주 [신동윤의 나우,스톡] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002130650?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"35": {
+			"title": " 머스크도 결국 챗GPT 시장 진출, 오픈 AI에 도전장 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006749178?sid=101",
+			"writer": "뉴스1"
+		},
+		"36": {
+			"title": " '보이즈 플래닛'으로 재기?…갈 길 바쁜 CJ ENM [연예 마켓+] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833078?sid=101",
+			"writer": "한국경제"
+		},
+		"37": {
+			"title": " 현대차그룹 '24조 투자' 바라보는 두가지 시선 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000015519?sid=101",
+			"writer": "비즈워치"
+		},
+		"38": {
+			"title": " \"100만원 갔을 때 못 팔고 계좌 반토막\"…40대 엄마의 한탄 [윤현주의 主食이 주식] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833080?sid=101",
+			"writer": "한국경제"
+		},
+		"39": {
+			"title": " 바이든은 왜 입 다물었을까…'2500조원' 석유 제국의 절대 반지 [딥다이브 중동] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001095620?sid=101",
+			"writer": "한국경제TV"
+		},
+		"40": {
+			"title": " 금리 꺾이면서 살아나는 중고車 거래…빠른 실적회복 기대되는 ‘이 회사’ [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002130662?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"41": {
+			"title": " 증시 급락 없다?…ELF 관심도 '쑥쑥' ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011804974?sid=101",
+			"writer": "뉴시스"
+		},
+		"42": {
+			"title": " 중국 펀드로 '머니무브'…왜? ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011804980?sid=101",
+			"writer": "뉴시스"
+		},
+		"43": {
+			"title": " 모두가 상장을 꿈 꿀때, 누군가는 상장폐지를 떠올리다 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464296?sid=101",
+			"writer": "이데일리"
+		},
+		"44": {
+			"title": " 개미 이어 기관까지…2차전지 투자붐 사로잡을 기업은 [시그널] ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004179296?sid=101",
+			"writer": "서울경제"
+		},
+		"45": {
+			"title": " ‘뱅크런’ 흡수하고 몸집 불린 JP모건 [3분 미국주식] ",
+			"url": "https://n.news.naver.com/mnews/article/005/0001601392?sid=101",
+			"writer": "국민일보"
+		},
+		"46": {
+			"title": " 몸값 5000억원 도전하는 기가비스…상반기 최대어 등극하나 [공모꾼] ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043428?sid=101",
+			"writer": "이코노미스트"
+		},
+		"47": {
+			"title": " [하나證 주간추천주]한국전력·애경산업·위메이드 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464305?sid=101",
+			"writer": "이데일리"
+		},
+		"48": {
+			"title": " [유안타證 주간추천주]삼성SDI·삼성엔지니어링·웅진씽크빅 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464306?sid=101",
+			"writer": "이데일리"
+		},
+		"49": {
+			"title": " KT, 소상공인에 고객 맞춤형 마케팅 돕는다 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000015520?sid=101",
+			"writer": "비즈워치"
+		},
+		"50": {
+			"title": " 로봇 수요 늘어난다…일본서 뜨는 '이곳' ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464312?sid=101",
+			"writer": "이데일리"
+		},
+		"51": {
+			"title": " 불경기 이기는 ‘명품 사랑’…투자 매력 커진 루이비통 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464320?sid=101",
+			"writer": "이데일리"
+		},
+		"52": {
+			"title": " 하얀 설탕의 배신…12년 만에 최고가, 슈가플레이션 공포 키웠다 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004875415?sid=101",
+			"writer": "머니투데이"
+		},
+		"53": {
+			"title": " 올 들어 455% 오른 에코프로…코스닥 ‘빚투’도 10조원 넘어 ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043431?sid=101",
+			"writer": "이코노미스트"
+		},
+		"54": {
+			"title": " '재벌집 막내아들' 래몽래인, 하반기 '반등' 이끌 카드는? ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464334?sid=101",
+			"writer": "이데일리"
+		},
+		"55": {
+			"title": " 뉴욕증시, Fed 추가 긴축가능성에 하락…다우 0.42%↓ JP모건 7.55%↑ ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000211875?sid=101",
+			"writer": "더팩트"
+		},
+		"56": {
+			"title": " 금값 7주 만에 꺾였지만…“더 오를 수 있다” 전망도 ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043433?sid=101",
+			"writer": "이코노미스트"
+		},
+		"57": {
+			"title": " “태양보다 뜨겁다”…美 IRA 수혜주는 ‘이곳’ ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464344?sid=101",
+			"writer": "이데일리"
+		},
+		"58": {
+			"title": " ‘만년 기대주’ 신재생에너지…나홀로 43% 오른 이종목 눈에 띄네 [박윤예의 글로벌주 열전] ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005116895?sid=101",
+			"writer": "매일경제"
+		},
+		"59": {
+			"title": " [다음주 증시전망] \"박스권 장세\"…美 기업 실적·中 경제지표에 쏠리는 눈 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004179326?sid=101",
+			"writer": "서울경제"
+		},
+		"60": {
+			"title": " 시진핑-룰라, '달러패권'에 도전장…\"위안-헤알 결제 무역 강화\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013882214?sid=101",
+			"writer": "연합뉴스"
+		},
+		"61": {
+			"title": " “리오프닝에 여름 성수기까지”…청도맥주, 담아볼까 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464351?sid=101",
+			"writer": "이데일리"
+		},
+		"62": {
+			"title": " [시그널] ‘현금 부자’ LX인터, 고금리에 회사채 2000억 찍는 이유는 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004179330?sid=101",
+			"writer": "서울경제"
+		},
+		"63": {
+			"title": " 한양증권, 전직 임원 21억원대 배임 혐의 발생 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833093?sid=101",
+			"writer": "한국경제"
+		},
+		"64": {
+			"title": " 中 전기차 주식 사볼까…“상하이 모토쇼 주목” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464359?sid=101",
+			"writer": "이데일리"
+		},
+		"65": {
+			"title": " [위클리크레딧]수주 호황 조선업, 등급 상향 '청신호' ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005464367?sid=101",
+			"writer": "이데일리"
+		},
+		"66": {
+			"title": " 한양증권, 전직 임원 21억5000만원 배임 ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043436?sid=101",
+			"writer": "이코노미스트"
+		},
+		"67": {
+			"title": " 흙수저를 금수저로 만드는 비법…자녀에게 ‘이것’ 가르쳐라 [자이앤트TV] ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005116922?sid=101",
+			"writer": "매일경제"
+		},
+		"68": {
+			"title": " “연예인도 한다길래, 100억 뜯겼다”…재테크 리딩 투자 사기범 4명 실형 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005116932?sid=101",
+			"writer": "매일경제"
+		},
+		"69": {
+			"title": " 삼성전자 주가 하락이 '文정부' 탓?…주주들 맞붙은 이유 [박의명의 불개미 구조대] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833119?sid=101",
+			"writer": "한국경제"
+		},
+		"70": {
+			"title": " 투자시장은 아직 춘래불사춘···그래도 봄이 멀지 않았다[매일 돈이 보이는 습관 M+] ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005116939?sid=101",
+			"writer": "매일경제"
+		},
+		"71": {
+			"title": " 4명 중 1명 반려동물 키우는데…\"청년주택 못 들어갑니다\" ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001735948?sid=101",
+			"writer": "MBN"
+		},
+		"72": {
+			"title": " 서울 휘발유 1,700원 돌파…기름값 다시 '꿈틀' ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001735950?sid=101",
+			"writer": "MBN"
+		},
+		"73": {
+			"title": " 주가도 공매도도 ‘과열’...에코프로그룹株에 집결한 동학개미 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005116961?sid=101",
+			"writer": "매일경제"
+		},
+		"74": {
+			"title": " 1063회 로또 1등 7명…번호 ‘3, 6, 22, 23, 24, 38’ ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000043447?sid=101",
+			"writer": "이코노미스트"
+		}
+	}
+}
