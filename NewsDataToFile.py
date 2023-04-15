@@ -1,12 +1,14 @@
 import json
 import pprint
 
-class NewsDataFile():
+class NewsDataToFile():
     # def __init__(self, date):
     #     self.date = date
 
-    def readFile(self):
-        pass
+    @staticmethod
+    def readFile(date):
+        with open('news_json_file/' + date + '.txt', "r", encoding= 'utf-8') as fileData:
+            return fileData.read()
 
     @staticmethod
     def writeFile(date, data):

@@ -1,7 +1,7 @@
 from GetNewsData import *
-from NewsDataToFile import *
+from NewsDataToFile import NewsDataToFile
 
 if __name__ == '__main__':
-    date = '20230412'
+    date = '20230416'
     scrapper = GetNewsData()
-    NewsDataToFile.NewsDataFile.writeFile(date, scrapper.getNewsJsonData(date))
+    NewsDataToFile.writeFile(date, scrapper.getNewsJsonData(date))
