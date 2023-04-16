@@ -98,7 +98,7 @@ class GetNewsData():
                 page = page + 1
                 sleep(0.1)
 
-        if os.path.isfile('/news_json_file/' + date + '.txt'):
+        if os.path.isfile('../news_json_file/' + date + '.txt'):
             beforeData = json.loads(FileIo.readFile(date))
             beforeCount = int(beforeData['newsCount'])
             returnData = self._changeNewsNum(returnData, addedNum= True)

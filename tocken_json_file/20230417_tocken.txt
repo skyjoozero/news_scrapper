@@ -1,0 +1,1225 @@
+{
+	"mostCounted": 3,
+	"words": {
+		"힘": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+					"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+					"writer": "파이낸셜뉴스"
+				}
+			}
+		},
+		"금리": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+					"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+					"writer": "파이낸셜뉴스"
+				},
+				"2": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"점론": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+					"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+					"writer": "파이낸셜뉴스"
+				}
+			}
+		},
+		"도": {
+			"wordCount": 5,
+			"articles": {
+				"1": {
+					"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+					"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+					"writer": "파이낸셜뉴스"
+				},
+				"2": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				},
+				"3": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"4": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				},
+				"5": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"기지개": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+					"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+					"writer": "파이낸셜뉴스"
+				}
+			}
+		},
+		"투자자": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"탁금": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"최고": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"치": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"개미": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"뉴욕증시": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"풍향계": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"주요": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"은행": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"기술": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"기업": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				},
+				"2": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				},
+				"3": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"실적": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"주목": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"처분": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"재고": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"스톡옵션": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"현금화": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"주식": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"화재": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"방음": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"터널": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"제": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				},
+				"2": {
+					"title": " [주간경제지표] 2023년 4월 14일자 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"경인": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"고속도로": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"통행": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"재개": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"봄": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				}
+			}
+		},
+		"코인": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				},
+				"2": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"대장": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				}
+			}
+		},
+		"이지영": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				}
+			}
+		},
+		"세상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				}
+			}
+		},
+		"더": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"가전": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"틈새": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"기능": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"전부": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"대로": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"노후": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"아파트": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"매수": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"쑥": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"샘": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"한샘, 올 1분기 200억대 적자 전망\" ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004179617?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"적자": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"한샘, 올 1분기 200억대 적자 전망\" ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004179617?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"전망": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"한샘, 올 1분기 200억대 적자 전망\" ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004179617?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"부고": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"이병희": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"증권": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				},
+				"3": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"자본시장": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"영업": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"본부장": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"씨": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"빙부": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"주태": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"영": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+					"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+					"writer": "뉴시스"
+				},
+				"2": {
+					"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+					"writer": "이데일리"
+				},
+				"3": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"금융": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"부친상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"대타": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"외국인": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"분율": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"주가": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"고공": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"행진": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"이번": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"우리": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"차례": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"전기차": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"덩달아": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				}
+			}
+		},
+		"감산": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"선언": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"삼성": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"전자": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"에코": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"프로": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"주도": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"파티": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"과열": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"양상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"경고": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				}
+			}
+		},
+		"하반기": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"추경": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"편성": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"것": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"가지": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"포인트": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"주간": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [주간경제지표] 2023년 4월 14일자 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"경제지표": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [주간경제지표] 2023년 4월 14일자 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"비트코인": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"가상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"화폐": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"관련": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"주": {
+			"wordCount": 8,
+			"articles": {
+				"1": {
+					"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+					"writer": "디지털타임스"
+				},
+				"2": {
+					"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+					"writer": "디지털타임스"
+				},
+				"3": {
+					"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+					"writer": "이데일리"
+				},
+				"4": {
+					"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+					"writer": "매일경제"
+				},
+				"5": {
+					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+					"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+					"writer": "더팩트"
+				},
+				"6": {
+					"title": " [주간경제지표] 2023년 4월 14일자 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+					"writer": "조선일보"
+				},
+				"7": {
+					"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+					"writer": "조선일보"
+				},
+				"8": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"위축": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"발행": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"다시": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"증가": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"월": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " [주간경제지표] 2023년 4월 14일자 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+					"writer": "조선일보"
+				},
+				"2": {
+					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+					"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+					"writer": "조선일보"
+				}
+			}
+		},
+		"하락": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"베팅": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"달": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+					"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+					"writer": "매일경제"
+				},
+				"2": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"공매도": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"역대": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		},
+		"최대": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+					"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+					"writer": "동아일보"
+				}
+			}
+		}
+	}
+}

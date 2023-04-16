@@ -1,0 +1,106 @@
+{
+	"date": "20230417",
+	"newsCount": 20,
+	"articles": {
+		"1": {
+			"title": " 힘실리는 금리 고점론… ELS도 기지개 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0004997609?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"2": {
+			"title": " 투자자예탁금 최고치… 개미가 돌아왔다 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002794953?sid=101",
+			"writer": "디지털타임스"
+		},
+		"3": {
+			"title": " [뉴욕증시 풍향계] 주요 은행·기술 기업 1분기 실적에 주목 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002794954?sid=101",
+			"writer": "디지털타임스"
+		},
+		"4": {
+			"title": " 처분 어려운 `재고` 같던 스톡옵션… 현금화 가능한 주식으로 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002794955?sid=101",
+			"writer": "디지털타임스"
+		},
+		"5": {
+			"title": " '화재 방음터널' 걷어낸 제2경인고속도로 통행 재개 ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001736052?sid=101",
+			"writer": "MBN"
+		},
+		"6": {
+			"title": " 봄 맞은 코인 대장들[이지영의 코인 세상] ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011806416?sid=101",
+			"writer": "뉴시스"
+		},
+		"7": {
+			"title": " \"쪼개고 더 쪼개고\"…가전 '틈새' 기능이 '전부'됐네 ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001736055?sid=101",
+			"writer": "MBN"
+		},
+		"8": {
+			"title": " 금리 3%대로 떨어지고…노후 아파트 매수 '쑥' ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001736058?sid=101",
+			"writer": "MBN"
+		},
+		"9": {
+			"title": " \"한샘, 올 1분기 200억대 적자 전망\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004179617?sid=101",
+			"writer": "서울경제"
+		},
+		"10": {
+			"title": " [부고]이병희(KB증권 자본시장영업본부장) 씨 빙부상 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465220?sid=101",
+			"writer": "이데일리"
+		},
+		"11": {
+			"title": " [부고]주태영(KB증권 기업금융1본부장) 씨 부친상 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465221?sid=101",
+			"writer": "이데일리"
+		},
+		"12": {
+			"title": " SM 대타로 여길 노렸나...외국인 지분율 43%, 주가도 고공행진 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005117254?sid=101",
+			"writer": "매일경제"
+		},
+		"13": {
+			"title": " “이번엔 우리가 달릴 차례”...전기차 잘나가니 덩달아 신난 기업들 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005117256?sid=101",
+			"writer": "매일경제"
+		},
+		"14": {
+			"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465231?sid=101",
+			"writer": "이데일리"
+		},
+		"15": {
+			"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000211971?sid=101",
+			"writer": "더팩트"
+		},
+		"16": {
+			"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465235?sid=101",
+			"writer": "이데일리"
+		},
+		"17": {
+			"title": " [주간경제지표] 2023년 4월 14일자 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003758127?sid=101",
+			"writer": "조선일보"
+		},
+		"18": {
+			"title": " 비트코인 고공행진에 가상화폐 관련주 들썩 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003758144?sid=101",
+			"writer": "조선일보"
+		},
+		"19": {
+			"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003758146?sid=101",
+			"writer": "조선일보"
+		},
+		"20": {
+			"title": " “주가하락에 베팅”… 이달 공매도 역대 최대 ",
+			"url": "https://n.news.naver.com/mnews/article/020/0003491748?sid=101",
+			"writer": "동아일보"
+		}
+	}
+}

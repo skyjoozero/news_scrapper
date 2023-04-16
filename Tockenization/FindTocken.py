@@ -1,37 +1,35 @@
 from konlpy.tag import Okt
-from konlpy.tag import Kkma
-from konlpy.tag import Komoran
 from MyUtil.FileIo import FileIo
 import json
-import itertools
-
-okt = Okt()
-kkma = Kkma()
-komoran = Komoran()
 
 class FindTocken():
 
     fileIo = FileIo()
+    okt = Okt()
 
-    def setDate(self, date):
+    def getDate(self, date):
         '''
         :param date: date string "YYYYMMDD"
-        :return:
+        :return: json obj tocken info
         '''
         data = self.fileIo.readFile(date)
         jsonData = json.loads(data)
         temp = []
-        wordsCount = {}
+        wordsCount = {'mostCounted': 0,
+                      'words': {}}
         for i in range(int(jsonData['newsCount'])):
-            temp.append(list(okt.nouns(jsonData['articles'][str(i + 1)]['title'])))
+            temp.append(list(self.okt.nouns(jsonData['articles'][str(i + 1)]['title'])))
 
         temp = sum(temp, [])
         #todo
 
         for i in range(len(temp)):
-            if temp[i] in wordsCount:
-                wordsCount[temp[i]] += 1
+            if temp[i] in wordsCount['words']:
+                wordsCount['words'][temp[i]]['wordCount'] += 1
+                if wordsCount['words'][temp[i]]['wordCount'] > wordsCount['mostCounted']:
+                    wordsCount['mostCounted'] = wordsCount['words'][temp[i]]['wordCount']
             else:
-                wordsCount[temp[i]] = 1
+                wordsCount['words'][temp[i]] = {'wordCount': 1,
+                                                'articles': {}}
 
-        print(wordsCount)
+        return json.dumps(wordsCount, ensure_ascii=False, indent='\t')
