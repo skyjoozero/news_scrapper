@@ -1,13 +1,12 @@
-import pprint
-
 import requests
 import json
 import re
 import os.path
-from collections import OrderedDict
 from time import sleep
 from bs4 import BeautifulSoup as bs
-from NewsDataToFile import NewsDataToFile
+from MyUtil.FileIo import FileIo
+from MyUtil.CheckDate import CheckDate
+from datetime import datetime
 
 class GetNewsData():
 
@@ -39,11 +38,9 @@ class GetNewsData():
 
         for el in contents.find_all('span', 'writing'):
             arr.append(el.get_text().strip())
-        print(arr)
-        print(len(arr))
         return arr
 
-    def changeNewsNum(self, jsonString, addedNum = False):
+    def _changeNewsNum(self, jsonString, addedNum = False):
         '''
         :param jsonString: dict
         :return: dict
@@ -53,10 +50,8 @@ class GetNewsData():
         articles = jsonData['articles']
 
         for i in range(newsNumber):
-            print(i)
             articles[i - newsNumber] = articles[i + 1]
         for i in range(-(newsNumber), 0, 1):
-            print(i)
             articles[abs(i)] = articles[i]
             articles.pop(i)
 
@@ -74,10 +69,10 @@ class GetNewsData():
         page = 1
         mainUrl = 'https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid2=258&sid1=101&date=' + str(date) + '&page='
 
+        print(date)
+
         while True:
             soup = self._getSoup(mainUrl + str(page))
-            print(mainUrl + str(page))
-            pprint.pprint(soup.select_one('div.paging'))
             pageNum = soup.select_one('div.paging').find('strong').getText()
 
             if str(page) != pageNum:
@@ -104,15 +99,47 @@ class GetNewsData():
                 sleep(0.1)
 
         if os.path.isfile('/news_json_file/' + date + '.txt'):
-            beforeData = json.loads(NewsDataToFile.readFile(date))
+            beforeData = json.loads(FileIo.readFile(date))
             beforeCount = int(beforeData['newsCount'])
-            returnData = self.changeNewsNum(returnData, addedNum= True)
+            returnData = self._changeNewsNum(returnData, addedNum= True)
             for i in range(returnData['newsCount']):
                 beforeData["articles"][beforeCount + i + 1] = returnData['articles'][i + 1]
             beforeData['newsCount'] = beforeCount + returnData['newsCount']
-            return json.dumps(self.changeNewsNum(beforeData), ensure_ascii=False, indent='\t')
+            return json.dumps(self._changeNewsNum(beforeData), ensure_ascii=False, indent='\t')
 
         else:
-            return json.dumps(self.changeNewsNum(returnData), ensure_ascii=False, indent='\t')
+            return json.dumps(self._changeNewsNum(returnData), ensure_ascii=False, indent='\t')
 
-        #todo: 파일 존재 시 기존 파일에 이어서 저장하는 기능 -> 체크하기
+    def findNewsDuringDate(self, startYear, startMonth, startDay, lastYear, lastMonth, lastDay):
+        '''
+
+        :param startYear: string
+        :param startMonth: string
+        :param startDay: string
+        :param lastYear: string
+        :param lastMonth: string
+        :param lastDay: string
+        :return: None
+
+        '''
+
+        scrapper = GetNewsData()
+
+        while True:
+            startDate = datetime(startYear, startMonth, startDay, 0, 0, 0)
+            lastDate = datetime(lastYear, lastMonth, lastDay + 1, 0, 0, 0)
+            if ((lastDate - startDate).days >= 1):
+                if CheckDate.checkDateValid(startYear, startMonth, startDay):
+                    date = str(startYear).zfill(4) + str(startMonth).zfill(2) + str(startDay).zfill(2)
+                    FileIo.writeFile(date, scrapper.getNewsJsonData(date))
+                else:
+                    if startDay > 31:
+                        startDay = 0
+                        startMonth += 1
+                    if startMonth > 12:
+                        startMonth = 1
+                        startDay = 0
+            else:
+                break
+            startDay += 1
+        del scrapper
