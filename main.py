@@ -27,25 +27,26 @@ if __name__ == '__main__':
         chatBot = TelegramSender()
 
         jsonData = json.loads(fileReader.readInfoFile(year + month + day))
-        mostCount = int(jsonData['mostCounted'])
+        print(jsonData['mostCounted'])
+        mostCount = jsonData['mostCounted']
 
         sendCount = 0
-        for key in jsonData['words'].keys():
-            # print(key)
-            if jsonData['words'][key]['wordCount'] == mostCount:
-                msg = key + '' + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')
-                print(msg)
-                msgs = [msg[i:i + 4096] for i in range(0, len(msg), 4096)]
-                for text in msgs:
-                    asyncio.run(chatBot.main(text))
-                #sendCount += 1
-            if sendCount >= 5:
-                break
-
+        while True:
+            for key in jsonData['words'].keys():
+                print(key)
+                if jsonData['words'][key]['wordCount'] == mostCount:
+                    print(jsonData['words'][key]['wordCount'], mostCount)
+                    msg = key + '(' + str(mostCount) + ')'  + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')
+                    # print(msg)
+                    msgs = [msg[i:i + 4096] for i in range(0, len(msg), 4096)]
+                    for text in msgs:
+                        asyncio.run(chatBot.main(text))
+                        sleep(1)
+                    sendCount += 1
             mostCount -= 1
 
-
-
+            if sendCount >= 5:
+                break
 
             #asyncio.run(chatBot.main())
 

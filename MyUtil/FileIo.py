@@ -1,11 +1,12 @@
 import sys
+import os.path
 
 class FileIo():
     def __init__(self):
 
         if sys.platform.startswith('win'):
-             self.news_path = 'news_json_flie/'
-             self.tocken_path = 'tocken_json_file/'
+             self.news_path = 'C:\\Users\\skyjoozero\\Desktop\\news_scrapper\\news_json_file\\'
+             self.tocken_path = 'C:\\Users\\skyjoozero\\Desktop\\news_scrapper\\tocken_json_file\\'
         else:
             self.news_path = '/home/ubuntu/news_scrapper/news_json_file'
             self.tocken_path = '/home/ubuntu/news_scrapper/tocken_json_file'
