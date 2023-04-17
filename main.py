@@ -12,44 +12,47 @@ if __name__ == '__main__':
     py_ver = int(f"{sys.version_info.major}{sys.version_info.minor}")
     if py_ver > 37 and sys.platform.startswith('win'):
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    try:
-        date = datetime.now()
-        year = date.strftime('%Y')
-        month = date.strftime('%m')
-        day = date.strftime('%d')
-        print(year, month, day)
 
-        newsData = newsGetter.findNewsDuringDate(int(year), int(month), int(day), int(year), int(month), int(day))
+    date = datetime.now()
+    year = date.strftime('%Y')
+    month = date.strftime('%m')
+    day = date.strftime('%d')
+    print(year, month, day)
 
-        finder = MakeTockenFile()
-        finder.makeFile(year + month + day)
+    newsData = newsGetter.findNewsDuringDate(int(year), int(month), int(day), int(year), int(month), int(day))
 
-        chatBot = TelegramSender()
+    finder = MakeTockenFile()
+    finder.makeFile(year + month + day)
 
-        jsonData = json.loads(fileReader.readInfoFile(year + month + day))
-        print(jsonData['mostCounted'])
-        mostCount = jsonData['mostCounted']
+    chatBot = TelegramSender()
 
-        sendCount = 0
-        while True:
-            for key in jsonData['words'].keys():
-                print(key)
-                if jsonData['words'][key]['wordCount'] == mostCount:
-                    print(jsonData['words'][key]['wordCount'], mostCount)
-                    msg = key + '(' + str(mostCount) + ')'  + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')
-                    # print(msg)
-                    msgs = [msg[i:i + 4096] for i in range(0, len(msg), 4096)]
-                    for text in msgs:
+    jsonData = json.loads(fileReader.readInfoFile(year + month + day))
+    print(jsonData['mostCounted'])
+    mostCount = jsonData['mostCounted']
+
+
+    sendCount = 0
+    while True:
+        for key in jsonData['words'].keys():
+            print(key)
+            if jsonData['words'][key]['wordCount'] == mostCount:
+                print(jsonData['words'][key]['wordCount'], mostCount)
+                msg = key + '(' + str(mostCount) + ')'  + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')
+                # print(msg)
+                msgs = [msg[i:i + 4096] for i in range(0, len(msg), 4096)]
+                for text in msgs:
+                    try:
                         asyncio.run(chatBot.main(text))
-                        sleep(1)
-                    sendCount += 1
-            mostCount -= 1
+                    except BaseException as e:
+                        print(e)
+                        asyncio.run(chatBot.main(str(e)))
+                    sleep(1)
+                sendCount += 1
+        mostCount -= 1
 
-            if sendCount >= 5:
-                break
+        if sendCount >= 5:
+            break
 
-            #asyncio.run(chatBot.main())
+        #asyncio.run(chatBot.main())
 
-    except BaseException as e:
-        print(e)
-        asyncio.run(chatBot.main(str(e)))
+
