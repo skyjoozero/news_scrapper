@@ -1,41 +1,45 @@
+import sys
+
 class FileIo():
-    # def __init__(self, date):
-    #     self.date = date
+    def __init__(self):
 
-    @staticmethod
-    def readFile(date):
+        if sys.platform.startswith('win'):
+             self.news_path = 'news_json_flie/'
+             self.tocken_path = 'tocken_json_file/'
+        else:
+            self.news_path = '/home/ubuntu/news_scrapper/news_json_file'
+            self.tocken_path = '/home/ubuntu/news_scrapper/tocken_json_file'
+
+    def readFile(self, date):
         '''
         :param date: date string "YYYYMMDD"
         :return: json formatted string
         '''
-        with open('news_json_file/' + str(date) + '.txt', "r", encoding= 'utf-8') as fileData:
+        with open(self.news_path + str(date) + '.txt', "r", encoding= 'utf-8') as fileData:
             return fileData.read()
 
-    @staticmethod
-    def readInfoFile(date):
+    def readInfoFile(self, date):
         '''
         :param date: date string "YYYYMMDD"
         :return: json formatted string
         '''
-        with open('tocken_json_file/' + date + '_tocken.txt', "r", encoding='utf-8') as fileData:
+        with open(self.tocken_path + date + '_tocken.txt', "r", encoding='utf-8') as fileData:
             return fileData.read()
 
-    @staticmethod
-    def writeFile(date, data):
+    def writeFile(self, date, data):
         '''
         :param date: date string "YYYYMMDD"
         :param data: json formatted string
         :return: None
         '''
-        with open('news_json_file/' + date + '.txt', "w", encoding= 'utf-8') as fileData:
+        with open(self.news_path + date + '.txt', "w", encoding= 'utf-8') as fileData:
             fileData.write(data)
 
-    @staticmethod
-    def writeInfoFile(date, data):
+    def writeInfoFile(self, date, data):
         '''
         :param date: date string "YYYYMMDD"
         :param data: json formatted string
         :return: None
         '''
-        with open('tocken_json_file/' + date + '_tocken.txt', "w", encoding='utf-8') as fileData:
+        with open(self.tocken_path + date + '_tocken.txt', "w", encoding='utf-8') as fileData:
             fileData.write(data)

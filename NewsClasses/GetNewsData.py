@@ -9,7 +9,7 @@ from MyUtil.CheckDate import CheckDate
 from datetime import datetime
 
 class GetNewsData():
-
+    fileIo = FileIo()
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36'
     }
@@ -99,7 +99,7 @@ class GetNewsData():
                 sleep(0.1)
 
         if os.path.isfile('../news_json_file/' + date + '.txt'):
-            beforeData = json.loads(FileIo.readFile(date))
+            beforeData = json.loads(self.fileIo.readFile(date))
             beforeCount = int(beforeData['newsCount'])
             returnData = self._changeNewsNum(returnData, addedNum= True)
             for i in range(returnData['newsCount']):
@@ -131,7 +131,7 @@ class GetNewsData():
             if ((lastDate - startDate).days >= 1):
                 if CheckDate.checkDateValid(startYear, startMonth, startDay):
                     date = str(startYear).zfill(4) + str(startMonth).zfill(2) + str(startDay).zfill(2)
-                    FileIo.writeFile(date, scrapper.getNewsJsonData(date))
+                    self.fileIo.writeFile(date, scrapper.getNewsJsonData(date))
                 else:
                     if startDay > 31:
                         startDay = 0

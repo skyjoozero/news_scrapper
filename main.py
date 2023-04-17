@@ -1,5 +1,5 @@
 import asyncio
-
+import sys
 from NewsClasses.GetNewsData import *
 from MyUtil.FileIo import FileIo
 from Tockenization.MakeTockenFile import MakeTockenFile
@@ -9,7 +9,9 @@ if __name__ == '__main__':
     chatBot = TelegramSender()
     newsGetter = GetNewsData()
     fileReader = FileIo()
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    py_ver = int(f"{sys.version_info.major}{sys.version_info.minor}")
+    if py_ver > 37 and sys.platform.startswith('win'):
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     try:
         date = datetime.now()
         year = date.strftime('%Y')
@@ -31,18 +33,21 @@ if __name__ == '__main__':
         for key in jsonData['words'].keys():
             # print(key)
             if jsonData['words'][key]['wordCount'] == mostCount:
-                for i in range(mostCount):
-                    asyncio.run(chatBot.main(key + '' + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')))
-                    sendCount += 1
-                if sendCount >= 5:
-                    break
+                msg = key + '' + json.dumps(jsonData['words'][key]['articles'], ensure_ascii=False, indent='\t')
+                print(msg)
+                msgs = [msg[i:i + 4096] for i in range(0, len(msg), 4096)]
+                for text in msgs:
+                    asyncio.run(chatBot.main(text))
+                #sendCount += 1
+            if sendCount >= 5:
+                break
 
             mostCount -= 1
 
 
 
 
-            # asyncio.run(chatBot.main())
+            #asyncio.run(chatBot.main())
 
     except BaseException as e:
         print(e)
