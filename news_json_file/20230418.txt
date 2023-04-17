@@ -1,0 +1,106 @@
+{
+	"date": "20230418",
+	"newsCount": 20,
+	"articles": {
+		"1": {
+			"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+			"writer": "한국경제TV"
+		},
+		"2": {
+			"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+			"writer": "한국경제TV"
+		},
+		"3": {
+			"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+			"writer": "이데일리"
+		},
+		"4": {
+			"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+			"writer": "한국경제TV"
+		},
+		"5": {
+			"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+			"writer": "이데일리"
+		},
+		"6": {
+			"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+			"writer": "MBN"
+		},
+		"7": {
+			"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+			"writer": "디지털타임스"
+		},
+		"8": {
+			"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+			"writer": "디지털타임스"
+		},
+		"9": {
+			"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+			"writer": "MBN"
+		},
+		"10": {
+			"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+			"writer": "연합뉴스"
+		},
+		"11": {
+			"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+			"writer": "머니투데이"
+		},
+		"12": {
+			"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+			"writer": "한국경제"
+		},
+		"13": {
+			"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+			"writer": "서울경제"
+		},
+		"14": {
+			"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"15": {
+			"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+			"writer": "한국경제TV"
+		},
+		"16": {
+			"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+			"writer": "한국경제TV"
+		},
+		"17": {
+			"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+			"writer": "한국경제TV"
+		},
+		"18": {
+			"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+			"writer": "한국경제TV"
+		},
+		"19": {
+			"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+			"writer": "연합뉴스"
+		},
+		"20": {
+			"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+			"writer": "이데일리"
+		}
+	}
+}

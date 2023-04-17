@@ -1,0 +1,1660 @@
+{
+	"mostCounted": 4,
+	"words": {
+		"현상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"개인": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"일단": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"사자": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"증시": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"프리즘": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"조선": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"빅": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"올해": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"적자": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"탈출": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"삼성": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"먼저": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"간다": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"조선 빅3 올해 적자탈출\"...삼성重 먼저 간다 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095974?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"키": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"마스터": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"직무": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"집행정지": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"가처분": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"피소": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"은행": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"주": {
+			"wordCount": 8,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				},
+				"3": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				},
+				"4": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				},
+				"5": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				},
+				"6": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				},
+				"7": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				},
+				"8": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"다음": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"테슬라": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				},
+				"3": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"넷플릭스": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"관전": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"포인트": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 은행주 다음 테슬라·넷플릭스…관전 포인트는 [GO WEST] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095975?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"거래소": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"알파": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"홀딩스": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"주권": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"매매": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"거래": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"정지": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 키네마스터, 직무집행정지 가처분 피소 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465961?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"기간": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"변경": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
+					"writer": "이데일리"
+				},
+				"2": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"최": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"우선": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"변제": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"절반": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"이상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"경매": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				},
+				"2": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"중단": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"촉구": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"클릭": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"이": {
+			"wordCount": 5,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				},
+				"2": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				},
+				"3": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				},
+				"4": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				},
+				"5": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"종목": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"신고": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"하이브": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"일": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				},
+				"3": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"상승": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
+					"writer": "디지털타임스"
+				},
+				"2": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"테마주": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"이익": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"창": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"대비": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"투자": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				},
+				"2": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"부담": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"과중": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 잘 나가는 `2차전지` 테마주 \"이익창출 대비 투자부담 과중\" ",
+					"url": "https://n.news.naver.com/mnews/article/029/0002795212?sid=101",
+					"writer": "디지털타임스"
+				}
+			}
+		},
+		"명": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"골병": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"라인": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				},
+				"2": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"버스": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"전용": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"차로": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"달": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"뒤": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"개통": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 올해만 20명 쓰러진 '골병라인'…버스전용차로 이르면 한 달 뒤 개통 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736319?sid=101",
+					"writer": "MBN"
+				}
+			}
+		},
+		"캠코": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"인천": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"전세": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				},
+				"2": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"사기": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"피해": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"주택": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"건": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"기일": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"반도체": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"다시": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"다른": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"기술": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"팔고": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"집중": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"매수": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"서학": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"픽": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				}
+			}
+		},
+		"기회": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"모색": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"자산운용": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"업계": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"대표": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"단": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				},
+				"3": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"유럽": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"출장": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"길": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
+					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
+					"writer": "한국경제"
+				}
+			}
+		},
+		"뉴욕주": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"제조업": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"지수": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"예상": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"크게": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"상회": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				}
+			}
+		},
+		"이슈": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"머스크": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"스페이스": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"스타": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"발사": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"임박": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"국내": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"우주": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"항공": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"모멘텀": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
+					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
+					"writer": "아이뉴스24"
+				}
+			}
+		},
+		"르노": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"전세계": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"전기차": {
+			"wordCount": 2,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				},
+				"2": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"가격": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"재": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"검토": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"인하": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"여파": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"세": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " 캠코, 인천 전세사기 피해 주택 경매 늦춘다…51건 기일 변경 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886277?sid=101",
+					"writer": "연합뉴스"
+				},
+				"2": {
+					"title": " 르노, 전세계 전기차 가격 재검토…테슬라 가격 인하 여파 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096009?sid=101",
+					"writer": "한국경제TV"
+				},
+				"3": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"앵그리버드": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"제작사": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"로비오": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"인수": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"추진": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"포르쉐": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"시장": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"호조": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"영향": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"판매": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"년비": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"증가": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"라인메탈": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"샤오미": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"생산": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"지원": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"계약": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"체결": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
+					"writer": "한국경제TV"
+				}
+			}
+		},
+		"뉴욕증시": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"기업": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"실적": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"발표": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"속": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"폭": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"출발": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
+				}
+			}
+		},
+		"현금": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"반": {
+			"wordCount": 3,
+			"articles": {
+				"1": {
+					"title": " '최우선변제' 돌려받아도 절반 이상 떼인다…\"경매 중단\" 촉구 ",
+					"url": "https://n.news.naver.com/mnews/article/057/0001736305?sid=101",
+					"writer": "MBN"
+				},
+				"2": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				},
+				"3": {
+					"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"빚": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"코스닥": {
+			"wordCount": 1,
+			"articles": {
+				"1": {
+					"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		},
+		"수": {
+			"wordCount": 4,
+			"articles": {
+				"1": {
+					"title": " \"반도체주-테슬라 다시 오른다\"…다른 기술주 팔고 집중 매수[서학픽] ",
+					"url": "https://n.news.naver.com/mnews/article/008/0004876129?sid=101",
+					"writer": "머니투데이"
+				},
+				"2": {
+					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
+					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
+					"writer": "서울경제"
+				},
+				"3": {
+					"title": " 세가, 앵그리버드 제작사 로비오 1조원에 인수 추진 ",
+					"url": "https://n.news.naver.com/mnews/article/215/0001096010?sid=101",
+					"writer": "한국경제TV"
+				},
+				"4": {
+					"title": " 현금 반 빚 반으로 만든 '코스닥 900'…지킬 수 있을까 ",
+					"url": "https://n.news.naver.com/mnews/article/018/0005466000?sid=101",
+					"writer": "이데일리"
+				}
+			}
+		}
+	}
+}

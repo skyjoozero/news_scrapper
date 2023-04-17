@@ -3102,7 +3102,7 @@
 			}
 		},
 		"속": {
-			"wordCount": 23,
+			"wordCount": 24,
 			"articles": {
 				"1": {
 					"title": " \"1㎏ 골드바 곧 1억\"... 장롱 속 돌반지·금목걸이 다 나온다 ",
@@ -3218,6 +3218,11 @@
 					"title": " 코스피, 개인 매수에 7일 연속 강세...2,570대 마감 ",
 					"url": "https://n.news.naver.com/mnews/article/215/0001095943?sid=101",
 					"writer": "한국경제TV"
+				},
+				"24": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -4297,7 +4302,7 @@
 			}
 		},
 		"뉴욕증시": {
-			"wordCount": 3,
+			"wordCount": 4,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -4313,6 +4318,11 @@
 					"title": " [3분증시] 뉴욕증시, 연준 추가 긴축 우려에 하락…다우 0.4%↓ ",
 					"url": "https://n.news.naver.com/mnews/article/422/0000594215?sid=101",
 					"writer": "연합뉴스TV"
+				},
+				"4": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -4327,7 +4337,7 @@
 			}
 		},
 		"기업": {
-			"wordCount": 16,
+			"wordCount": 17,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -4408,11 +4418,16 @@
 					"title": " 기업 공시 ",
 					"url": "https://n.news.naver.com/mnews/article/011/0004180018?sid=101",
 					"writer": "서울경제"
+				},
+				"17": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
 		"실적": {
-			"wordCount": 39,
+			"wordCount": 40,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -4608,6 +4623,11 @@
 					"title": " 반도체ETF 실적 가른 비메모리의 힘 ",
 					"url": "https://n.news.naver.com/mnews/article/009/0005117770?sid=101",
 					"writer": "매일경제"
+				},
+				"40": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -4792,7 +4812,7 @@
 			}
 		},
 		"상승": {
-			"wordCount": 49,
+			"wordCount": 50,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -5038,6 +5058,11 @@
 					"title": " [클릭! 이 종목] JYP 52주 신고가… 하이브, 10거래일째 상승 ",
 					"url": "https://n.news.naver.com/mnews/article/029/0002795211?sid=101",
 					"writer": "디지털타임스"
+				},
+				"50": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -12867,7 +12892,7 @@
 			}
 		},
 		"증시": {
-			"wordCount": 31,
+			"wordCount": 32,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -13023,6 +13048,11 @@
 					"title": " 깊어지는 쏠림현상...개인 \"일단 사자\" [증시프리즘] ",
 					"url": "https://n.news.naver.com/mnews/article/215/0001095973?sid=101",
 					"writer": "한국경제TV"
+				},
+				"32": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -13342,7 +13372,7 @@
 			}
 		},
 		"발표": {
-			"wordCount": 4,
+			"wordCount": 5,
 			"articles": {
 				"1": {
 					"title": " [이번주 추천주] 애경산업, 홈쇼핑 매출회복 기대…27일 신작 발표 위메이드도 관심 ",
@@ -13363,6 +13393,11 @@
 					"title": " 금융 AI보안 첫 가이드라인 발표 \"챗봇 입·출력 제한\" ",
 					"url": "https://n.news.naver.com/mnews/article/030/0003091969?sid=101",
 					"writer": "전자신문"
+				},
+				"5": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -26977,7 +27012,7 @@
 			}
 		},
 		"폭": {
-			"wordCount": 10,
+			"wordCount": 11,
 			"articles": {
 				"1": {
 					"title": " \"호텔신라 1분기 매출 큰 폭 줄지만 이익은 늘어\" ",
@@ -27028,6 +27063,11 @@
 					"title": " '주가 폭등' 에코프로·에코프로비엠, 임원 주식매도 ",
 					"url": "https://n.news.naver.com/mnews/article/008/0004876089?sid=101",
 					"writer": "머니투데이"
+				},
+				"11": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -31442,7 +31482,7 @@
 			}
 		},
 		"출발": {
-			"wordCount": 29,
+			"wordCount": 30,
 			"articles": {
 				"1": {
 					"title": " [오늘의 환율전망] 기대 인플레이션 상승에 반등… 3원 상승 출발 ",
@@ -31588,6 +31628,11 @@
 					"title": " [올댓차이나] 중국 증시 하락 출발…상하이지수 0.03%↓ ",
 					"url": "https://n.news.naver.com/mnews/article/003/0011807149?sid=101",
 					"writer": "뉴시스"
+				},
+				"30": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -36367,7 +36412,7 @@
 			}
 		},
 		"상": {
-			"wordCount": 181,
+			"wordCount": 182,
 			"articles": {
 				"1": {
 					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
@@ -37273,6 +37318,11 @@
 					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
 					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
 					"writer": "서울경제"
+				},
+				"182": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -42787,7 +42837,7 @@
 			}
 		},
 		"기": {
-			"wordCount": 196,
+			"wordCount": 197,
 			"articles": {
 				"1": {
 					"title": " “30조+α 하반기 추경 편성될 것”…3가지 포인트 ",
@@ -43768,6 +43818,11 @@
 					"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
 					"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
 					"writer": "한국경제TV"
+				},
+				"197": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -50537,7 +50592,7 @@
 			}
 		},
 		"증": {
-			"wordCount": 130,
+			"wordCount": 131,
 			"articles": {
 				"1": {
 					"title": " 에코프로, 이번 주도 파티 이어갈까…증권가 '과열' 양상에 경고 ",
@@ -51188,6 +51243,11 @@
 					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
 					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
 					"writer": "한국경제TV"
+				},
+				"131": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -57557,7 +57617,7 @@
 			}
 		},
 		"소": {
-			"wordCount": 78,
+			"wordCount": 79,
 			"articles": {
 				"1": {
 					"title": " 이창용의 한은 1년…'쉽고 명확한' 정책소통이 예측가능성 키워 ",
@@ -57948,6 +58008,11 @@
 					"title": " 거래소, 알파홀딩스 주권매매거래정지기간 변경 ",
 					"url": "https://n.news.naver.com/mnews/article/018/0005465962?sid=101",
 					"writer": "이데일리"
+				},
+				"79": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -63777,7 +63842,7 @@
 			}
 		},
 		"발": {
-			"wordCount": 72,
+			"wordCount": 73,
 			"articles": {
 				"1": {
 					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
@@ -64138,6 +64203,11 @@
 					"title": " [이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은? ",
 					"url": "https://n.news.naver.com/mnews/article/031/0000741344?sid=101",
 					"writer": "아이뉴스24"
+				},
+				"73": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -69077,7 +69147,7 @@
 			}
 		},
 		"업": {
-			"wordCount": 88,
+			"wordCount": 89,
 			"articles": {
 				"1": {
 					"title": " 뉴욕증시, 금주 기업 실적·연준 발언 주목…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
@@ -69518,6 +69588,11 @@
 					"title": " 뉴욕주 4월 제조업 지수 10.8…예상 크게 상회 ",
 					"url": "https://n.news.naver.com/mnews/article/011/0004180103?sid=101",
 					"writer": "서울경제"
+				},
+				"89": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -73962,7 +74037,7 @@
 			}
 		},
 		"표": {
-			"wordCount": 78,
+			"wordCount": 79,
 			"articles": {
 				"1": {
 					"title": " [주간경제지표] 2023년 4월 14일자 ",
@@ -74353,6 +74428,11 @@
 					"title": " \"투자기회 모색\" 韓 자산운용업계 대표단, 유럽 출장길 ",
 					"url": "https://n.news.naver.com/mnews/article/015/0004833863?sid=101",
 					"writer": "한국경제"
+				},
+				"79": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},
@@ -76417,7 +76497,7 @@
 			}
 		},
 		"시": {
-			"wordCount": 196,
+			"wordCount": 197,
 			"articles": {
 				"1": {
 					"title": " 위축됐던 ELS 발행 다시 증가… 월 2조원 넘어 ",
@@ -77398,6 +77478,11 @@
 					"title": " 포르쉐, 中 시장 호조 영향 1분기 판매 전년비 18% 증가 ",
 					"url": "https://n.news.naver.com/mnews/article/215/0001096011?sid=101",
 					"writer": "한국경제TV"
+				},
+				"197": {
+					"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+					"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+					"writer": "연합뉴스"
 				}
 			}
 		},

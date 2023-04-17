@@ -1,6 +1,8 @@
 import json
 
 import telegram
+from telegram.constants import ParseMode
+
 
 class TelegramSender():
 
@@ -9,4 +11,7 @@ class TelegramSender():
 
     async def main(self, string):
         await self.bot.sendMessage(chat_id=1615871192, text=string)  # chat id - telegram 계정당 1개
+
+    async def sendHyperlink(self, string):
+            await self.bot.sendMessage(chat_id=1615871192, text=string, parse_mode=ParseMode.HTML)  # chat id - telegram 계정당 1개
 

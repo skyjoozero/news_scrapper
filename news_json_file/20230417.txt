@@ -1,6 +1,6 @@
 {
 	"date": "20230417",
-	"newsCount": 835,
+	"newsCount": 836,
 	"articles": {
 		"1": {
 			"title": " '감산 선언' 삼성전자…외국인 1조 넘게 사들였다 ",
@@ -4176,6 +4176,11 @@
 			"title": " 라인메탈, 中 샤오미와 전기차 생산 지원 계약 체결 ",
 			"url": "https://n.news.naver.com/mnews/article/215/0001096012?sid=101",
 			"writer": "한국경제TV"
+		},
+		"836": {
+			"title": " 뉴욕증시, 기업 실적 발표 속 소폭 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013886360?sid=101",
+			"writer": "연합뉴스"
 		}
 	}
 }
