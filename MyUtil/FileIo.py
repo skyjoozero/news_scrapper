@@ -5,8 +5,8 @@ class FileIo():
     def __init__(self):
 
         if sys.platform.startswith('win'):
-             self.news_path = 'C:\\Users\\skyjoozero\\Desktop\\news_scrapper\\news_json_file\\'
-             self.tocken_path = 'C:\\Users\\skyjoozero\\Desktop\\news_scrapper\\tocken_json_file\\'
+             self.news_path = 'C:\\Users\\LG\\Desktop\\news_scrapper\\news_json_file\\'
+             self.tocken_path = 'C:\\Users\\LG\\Desktop\\news_scrapper\\tocken_json_file\\'
         else:
             self.news_path = '/home/ubuntu/news_scrapper/news_json_file'
             self.tocken_path = '/home/ubuntu/news_scrapper/tocken_json_file'
@@ -33,7 +33,7 @@ class FileIo():
         :param data: json formatted string
         :return: None
         '''
-        with open(self.news_path + date + '.txt', "w", encoding= 'utf-8') as fileData:
+        with open(self.news_path + date + '.txt', "w+", encoding= 'utf-8') as fileData:
             fileData.write(data)
 
     def writeInfoFile(self, date, data):
@@ -42,5 +42,5 @@ class FileIo():
         :param data: json formatted string
         :return: None
         '''
-        with open(self.tocken_path + date + '_tocken.txt', "w", encoding='utf-8') as fileData:
+        with open(self.tocken_path + date + '_tocken.txt', "w+", encoding='utf-8') as fileData:
             fileData.write(data)

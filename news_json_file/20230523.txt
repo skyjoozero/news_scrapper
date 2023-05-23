@@ -1,0 +1,2561 @@
+{
+	"date": "20230523",
+	"newsCount": 511,
+	"articles": {
+		"1": {
+			"title": " [동전주②] 큐로그룹 계열사 6곳 중 5곳 1000원 안 되는데…회사는 '나 몰라라' ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000218206?sid=101",
+			"writer": "더팩트"
+		},
+		"2": {
+			"title": " “이제 올라간다”…주도주 자리 되찾는 반도체株 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491973?sid=101",
+			"writer": "이데일리"
+		},
+		"3": {
+			"title": " 증권계 만연 ‘채권 돌려막기’… 대형 기업들 피해 속출 ",
+			"url": "https://n.news.naver.com/mnews/article/005/0001610413?sid=101",
+			"writer": "국민일보"
+		},
+		"4": {
+			"title": " 연준 매파 \"금리 두번 더 올려야\"…동결론자도 '추후 인상' 여지 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957495?sid=101",
+			"writer": "연합뉴스"
+		},
+		"5": {
+			"title": " 외인 수급 챙긴 반도체株, 박스피 뚫을 송곳될까 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491976?sid=101",
+			"writer": "이데일리"
+		},
+		"6": {
+			"title": " [주요경제지표] 2023년 5월 22일자 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003765205?sid=101",
+			"writer": "조선일보"
+		},
+		"7": {
+			"title": " [주식 매매 상위 종목 및 환율] 2023년 5월 22일자 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003765211?sid=101",
+			"writer": "조선일보"
+		},
+		"8": {
+			"title": " 주가지수 산정 때 시세조종 주식 걸러낸다 ",
+			"url": "https://n.news.naver.com/mnews/article/023/0003765219?sid=101",
+			"writer": "조선일보"
+		},
+		"9": {
+			"title": " 외국인 “사자”에… 삼성전자 ‘7만전자’ 코앞 ",
+			"url": "https://n.news.naver.com/mnews/article/020/0003498948?sid=101",
+			"writer": "동아일보"
+		},
+		"10": {
+			"title": " [단독]메리츠證, 이화전기 계열사 주식 4월 모두 팔아 233억 챙겼다 ",
+			"url": "https://n.news.naver.com/mnews/article/020/0003498954?sid=101",
+			"writer": "동아일보"
+		},
+		"11": {
+			"title": " 증권사 자전거래 한두 번 아니다… 수익성만 고려하는 업계 구조 탓 ",
+			"url": "https://n.news.naver.com/mnews/article/005/0001610505?sid=101",
+			"writer": "국민일보"
+		},
+		"12": {
+			"title": " 머니투데이 오프라인 헤드라인-23일 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890395?sid=101",
+			"writer": "머니투데이"
+		},
+		"13": {
+			"title": " [속보] 중국 제재 받은 마이크론 2.85% 하락 마감 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822826?sid=101",
+			"writer": "뉴스1"
+		},
+		"14": {
+			"title": " SG 사태, 증권사 영업기반 훼손 가능성 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016212?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"15": {
+			"title": " \"노는 게 좋아\"...카지노·게임株 기지개 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016213?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"16": {
+			"title": " 대형주 시대 열리나…증권가 '전닉현기' 주목 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873587?sid=101",
+			"writer": "뉴시스"
+		},
+		"17": {
+			"title": " [속보] 테슬라 4.85% 급등한 188.87 달러에 마감 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822827?sid=101",
+			"writer": "뉴스1"
+		},
+		"18": {
+			"title": " '바닥' 확인한 타이어株…올해는 잘 굴러갈까 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491986?sid=101",
+			"writer": "이데일리"
+		},
+		"19": {
+			"title": " [속보]모든 시선은 부채 협상에…미 증시 긴장감 속 혼조 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491988?sid=101",
+			"writer": "이데일리"
+		},
+		"20": {
+			"title": " [속보]부채협상 앞두고 미증시 혼조, 나스닥 0.50%↑-다우 0.42%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822830?sid=101",
+			"writer": "뉴스1"
+		},
+		"21": {
+			"title": " 미래에셋, 을지파이낸스센터 본계약 체결 '사력'…MOU 6월 말까지 연장 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491989?sid=101",
+			"writer": "이데일리"
+		},
+		"22": {
+			"title": " 부채협상 앞두고 혼조, 나스닥 0.50%↑-다우 0.42%↓(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822833?sid=101",
+			"writer": "뉴스1"
+		},
+		"23": {
+			"title": " 中 마이크론 반도체 사용금지, 주가 2.85% 하락(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822838?sid=101",
+			"writer": "뉴스1"
+		},
+		"24": {
+			"title": " 챗GPT·바드에 물었다…대한민국 최고의 M&A는? ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005491994?sid=101",
+			"writer": "이데일리"
+		},
+		"25": {
+			"title": " 실적은 부진하고 외국인은 외면하고…꽁꽁 묶인 카카오 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492001?sid=101",
+			"writer": "이데일리"
+		},
+		"26": {
+			"title": " 테슬라 4.85% 급등, 5일 연속 상승세 이어가(상보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822851?sid=101",
+			"writer": "뉴스1"
+		},
+		"27": {
+			"title": " 올들어 6000억 빠졌다…'空모주펀드'된 공모주펀드 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890408?sid=101",
+			"writer": "머니투데이"
+		},
+		"28": {
+			"title": " 뉴욕증시, 부채협상 관망 속 혼조…다우 0.4%↓마감 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957547?sid=101",
+			"writer": "연합뉴스"
+		},
+		"29": {
+			"title": " [뉴욕증시]부채 협상 안갯속…\"2011년 충격 또 올까\" 긴장 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492003?sid=101",
+			"writer": "이데일리"
+		},
+		"30": {
+			"title": " 1200조 규모 우크라 재건 본격화?… 관련주 '들썩' ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922788?sid=101",
+			"writer": "머니S"
+		},
+		"31": {
+			"title": " 테슬라 4.85%-니콜라 7.16%, 전기차 일제 급등(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822856?sid=101",
+			"writer": "뉴스1"
+		},
+		"32": {
+			"title": " '7만전자' '10만닉스' 회복 초읽기...\"삼성電, 9만원 간다\" 전망도 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890412?sid=101",
+			"writer": "머니투데이"
+		},
+		"33": {
+			"title": " [뉴욕마감]지수별 혼조…바이든-매카시 부채담판 앞두고 관망 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822857?sid=101",
+			"writer": "뉴스1"
+		},
+		"34": {
+			"title": " 5월 기대 인플레 3.5%…물가상승 둔화에 석달 연속 내려 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957561?sid=101",
+			"writer": "연합뉴스"
+		},
+		"35": {
+			"title": " 작년 공공기관장 업무추진비 평균 1천285만원…3년만에 증가 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957572?sid=101",
+			"writer": "연합뉴스"
+		},
+		"36": {
+			"title": " 코인 ‘깜깜이’ 상장에…가상자산으로 발 뻗치는 주식 브로커들 ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903544?sid=101",
+			"writer": "조선비즈"
+		},
+		"37": {
+			"title": " ‘카스’도 제친 몰트 라거 ‘켈리’, 올 여름 하이트진로 주가 띄울까? ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903546?sid=101",
+			"writer": "조선비즈"
+		},
+		"38": {
+			"title": " [재송]22일 장 마감 후 주요 종목 뉴스 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492011?sid=101",
+			"writer": "이데일리"
+		},
+		"39": {
+			"title": " \"7만전자 저항선 뚫기 힘드네\"…차익실현에 상단 막힌 三電 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822881?sid=101",
+			"writer": "뉴스1"
+		},
+		"40": {
+			"title": " “우리 그룹 방산株 좋아요”… 한화증권, 한화에어로스페이스 목표가 50% 상향 ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903556?sid=101",
+			"writer": "조선비즈"
+		},
+		"41": {
+			"title": " ‘부채한도 협상 잘 될까’ 엎드린 증시…S&P500, 0.02%↑[데일리국제금융시장] ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193645?sid=101",
+			"writer": "서울경제"
+		},
+		"42": {
+			"title": " \"김남국 논란 효과\"…가상자산 체계 마련 시계 빠르게 돌아간다 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822891?sid=101",
+			"writer": "뉴스1"
+		},
+		"43": {
+			"title": " 中 마이크론 제재 솜방망이, 필라델피아지수 오히려 상승 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822892?sid=101",
+			"writer": "뉴스1"
+		},
+		"44": {
+			"title": " [K-INVESTORS]①‘한국의 버핏’ 최준철…“좋은 회사 차릴 순 없어도 가질 순 있다” ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262729?sid=101",
+			"writer": "아시아경제"
+		},
+		"45": {
+			"title": " 하반기 “삼천피 간다” vs “박스권 장세”…반도체·바이오주 유망 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262731?sid=101",
+			"writer": "아시아경제"
+		},
+		"46": {
+			"title": " 연초 흥한 AI 관련주…제2의 랠리 시작되나 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492018?sid=101",
+			"writer": "이데일리"
+		},
+		"47": {
+			"title": " 매파 카시카리도 ‘스킵(skip)’ 수긍…바이든·매카시 “협상 여전히 낙관적” [김영필의 3분 월스트리트] ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193650?sid=101",
+			"writer": "서울경제"
+		},
+		"48": {
+			"title": " 화이자 살빼는 약 경쟁사보다 효과 좋아, 주가 5% 급등 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822912?sid=101",
+			"writer": "뉴스1"
+		},
+		"49": {
+			"title": " 삼성증권, 1분기 어닝서프라이즈… 장석훈 'WM 명가' 자존심 지킬까 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922805?sid=101",
+			"writer": "머니S"
+		},
+		"50": {
+			"title": " 뉴욕증시, 부채한도 협상 대기 속 혼조 마감 ‘테슬라 4.85%↑…유가·비트코인 상승 [출근전 꼭 글로벌브리핑] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103118?sid=101",
+			"writer": "한국경제TV"
+		},
+		"51": {
+			"title": " LX홀딩스, 첫 상표권 수익 발생했다 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016509?sid=101",
+			"writer": "비즈워치"
+		},
+		"52": {
+			"title": " 주가 부진한데 '코인게이트'까지 설상가상…'게임株' 언제 반등하나 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822915?sid=101",
+			"writer": "뉴스1"
+		},
+		"53": {
+			"title": " '연준 매파' 불라드 “연내 금리인상 두 번 더해야” ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822937?sid=101",
+			"writer": "뉴스1"
+		},
+		"54": {
+			"title": " 투자자문·일임社, 3곳 중 2곳 5인 이하…투자자 보호 취약 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715012?sid=101",
+			"writer": "데일리안"
+		},
+		"55": {
+			"title": " 쌓여가는 미수금…증권사 괜찮나 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873682?sid=101",
+			"writer": "뉴시스"
+		},
+		"56": {
+			"title": " [거버넌스워치]귀뚜라미그룹 2세 최성환 첫 경영 최일선…골프장 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016510?sid=101",
+			"writer": "비즈워치"
+		},
+		"57": {
+			"title": " 부채협상 관망 속 Fed 당국자 발언 등에 혼조…나스닥 0.5%↑[뉴욕증시 브리핑] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847798?sid=101",
+			"writer": "한국경제"
+		},
+		"58": {
+			"title": " 美 뉴욕증시, 연방정부 부채한도 회동 주목…혼조마감 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715018?sid=101",
+			"writer": "데일리안"
+		},
+		"59": {
+			"title": " 한국 바이오기업들 자금 현황 '긴급 점검' 해보니[더 머니이스트-이해진의 글로벌바이오] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847802?sid=101",
+			"writer": "한국경제"
+		},
+		"60": {
+			"title": " \"과열주의보까지 나왔다\"…32년만에 최고치 찍은 日 증시 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847804?sid=101",
+			"writer": "한국경제"
+		},
+		"61": {
+			"title": " 뉴욕증시, 부채한도 협상 앞두고 혼조 마감…테슬라 4.9% ↑ ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000218218?sid=101",
+			"writer": "더팩트"
+		},
+		"62": {
+			"title": " [코스피·코스닥 전 거래일(22일) 주요공시] ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802289?sid=101",
+			"writer": "디지털타임스"
+		},
+		"63": {
+			"title": " “나스닥도 올라주고 예감 좋다”…오늘 ‘7만전자’ 기대 설레는 개미들 [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146877?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"64": {
+			"title": " 6월부터 코스피200 종목 변경...투자자 유의점은 [주식공부방] ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000045262?sid=101",
+			"writer": "이코노미스트"
+		},
+		"65": {
+			"title": " 엘앤케이바이오메드, 미국·호주·홍콩서 엑셀픽스-XTP 수술 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262760?sid=101",
+			"writer": "아시아경제"
+		},
+		"66": {
+			"title": " 진에어, 1Q 어닝서프라이즈가 이어진다…여전한 저평가-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492027?sid=101",
+			"writer": "이데일리"
+		},
+		"67": {
+			"title": " \"진에어, 2분기 및 하반기도 실적 개선 가능\"-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847807?sid=101",
+			"writer": "한국경제"
+		},
+		"68": {
+			"title": " HLB생명과학, 미국 NDA 신청한 HLB 지분 확대 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262762?sid=101",
+			"writer": "아시아경제"
+		},
+		"69": {
+			"title": " \"LG이노텍, 하반기 실적 호전 가시성 높다\"-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847808?sid=101",
+			"writer": "한국경제"
+		},
+		"70": {
+			"title": " \"빙그레, 더운 날씨 이어져 빙과류 수요 늘어날 것…목표가↑\"-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847809?sid=101",
+			"writer": "한국경제"
+		},
+		"71": {
+			"title": " 이슈 블랙홀된 부채협상...뉴욕증시 혼조 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802291?sid=101",
+			"writer": "디지털타임스"
+		},
+		"72": {
+			"title": " 빙그레, 판가인상 효과·우호적인 날씨에 2분기 전망도 '맑음'-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492028?sid=101",
+			"writer": "이데일리"
+		},
+		"73": {
+			"title": " \"돈 몰리는 신흥국 주식형 펀드…中 리오프닝·저평가 매력\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492029?sid=101",
+			"writer": "이데일리"
+		},
+		"74": {
+			"title": " LG이노텍, 하반기 명확한 호실적…'최선호주' 유지-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492030?sid=101",
+			"writer": "이데일리"
+		},
+		"75": {
+			"title": " WSJ \"현대차 전기차 혁신 주도, 테슬라 아성 넘본다\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822961?sid=101",
+			"writer": "뉴스1"
+		},
+		"76": {
+			"title": " 연우, 1분기 실적을 저점으로 상저하고 예상-하나證 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890443?sid=101",
+			"writer": "머니투데이"
+		},
+		"77": {
+			"title": " 라덕연식 다단계 사기 의혹 A씨가 대표 지낸 C투자자문은 어떤 회사? ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262765?sid=101",
+			"writer": "아시아경제"
+		},
+		"78": {
+			"title": " 한화솔루션, 신재생에너지 부문 실적 개선 긍정 전망-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890447?sid=101",
+			"writer": "머니투데이"
+		},
+		"79": {
+			"title": " DGB금융지주, 지방은행 중 유일하게 보험사 보유…실적 방어 기대-DS ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890448?sid=101",
+			"writer": "머니투데이"
+		},
+		"80": {
+			"title": " LG이노텍, 하반기 실적은 상반기대비 개선 전망-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890449?sid=101",
+			"writer": "머니투데이"
+		},
+		"81": {
+			"title": " “中, 마이크론 제재…삼전·SK하닉 단기주문 늘것” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492032?sid=101",
+			"writer": "이데일리"
+		},
+		"82": {
+			"title": " 포스코인터, 글로벌 경기침체로 연간 실적 둔화 불가피…목표가↓-흥국 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492033?sid=101",
+			"writer": "이데일리"
+		},
+		"83": {
+			"title": " \"진에어, 1분기 사상 최대이익…주가는 저평가\"-대신 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890450?sid=101",
+			"writer": "머니투데이"
+		},
+		"84": {
+			"title": " [클릭 e종목]“진에어, 하반기에도 실적 개선세 이어갈 것” ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262772?sid=101",
+			"writer": "아시아경제"
+		},
+		"85": {
+			"title": " \"자동차업종, 실적에 주주환원도 매력…비중확대\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492034?sid=101",
+			"writer": "이데일리"
+		},
+		"86": {
+			"title": " 한국전력, 전기요금↑·에너지가격↓…하반기 흑전 전망-현대차 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492035?sid=101",
+			"writer": "이데일리"
+		},
+		"87": {
+			"title": " [클릭 e종목]\"빙그레, 2Q에도 실적 성장 기대\"…목표가 ↑ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262775?sid=101",
+			"writer": "아시아경제"
+		},
+		"88": {
+			"title": " 한국철강, 철근 수요 감소…주가 상승 모멘텀 제한적-현대차 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492036?sid=101",
+			"writer": "이데일리"
+		},
+		"89": {
+			"title": " “떠나는 개미들 잡아라”…증권사, MTS 재단장 ‘잰걸음’ ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715024?sid=101",
+			"writer": "데일리안"
+		},
+		"90": {
+			"title": " \"포스코인터내셔널, 올해 연간 실적 둔화 불가피…목표가↓\"-흥국 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847815?sid=101",
+			"writer": "한국경제"
+		},
+		"91": {
+			"title": " [클릭 e종목]\"이녹스첨단소재, 1Q 저점 확인 후 2Q 회복 기대\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262778?sid=101",
+			"writer": "아시아경제"
+		},
+		"92": {
+			"title": " \"하반기 제약·바이오 주가 오를 것…셀트리온 주목하라\"-다올 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890454?sid=101",
+			"writer": "머니투데이"
+		},
+		"93": {
+			"title": " 와이지엔터, 베이비몬스터 데뷔 등으로 블랙핑크 의존도 해소…목표가↑-한국 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492038?sid=101",
+			"writer": "이데일리"
+		},
+		"94": {
+			"title": " \"국내 수출 경기, 하반기 개선 기대…中 경기·미중 갈등 변수\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492039?sid=101",
+			"writer": "이데일리"
+		},
+		"95": {
+			"title": " 한국전력, 1Q 대규모 적자 지속…올해 3Q 흑자전환 전망-현대차 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890457?sid=101",
+			"writer": "머니투데이"
+		},
+		"96": {
+			"title": " 연준 분열! 이번엔 핵심 3인방과 매파 충돌 美 학계 \"이럴 바에 '제2 연준' 설립하자\" [한상춘의 지금 세계는] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103136?sid=101",
+			"writer": "한국경제TV"
+		},
+		"97": {
+			"title": " LG에너지솔루션, 글로벌 2차전지 대장주-SK ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747872?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"98": {
+			"title": " “진에어, 1분기 사상 최대 실적…2분기 및 하반기 개선 전망” ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133949?sid=101",
+			"writer": "매일경제"
+		},
+		"99": {
+			"title": " 다이나믹디자인, 불성실 공시법인 지정 예고 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922823?sid=101",
+			"writer": "머니S"
+		},
+		"100": {
+			"title": " 연우, 1Q 저점...상저하고 예상-하나 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747874?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"101": {
+			"title": " LG엔솔, 글로벌 2차전지 대장주…목표가 68만원-SK ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492041?sid=101",
+			"writer": "이데일리"
+		},
+		"102": {
+			"title": " 비트코인, 美 부채한도 협상 주시하며 횡보세 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922824?sid=101",
+			"writer": "머니S"
+		},
+		"103": {
+			"title": " [굿모닝 증시]美 부채한도 3차 협상 주시…“코스피 변동폭 제한” ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262783?sid=101",
+			"writer": "아시아경제"
+		},
+		"104": {
+			"title": " [뉴스새벽배송]’디폴트 D-10’ 美증시…긴장 속 ‘바이든-매카시 협상’ 주목 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492044?sid=101",
+			"writer": "이데일리"
+		},
+		"105": {
+			"title": " 부채협상 타결 기대감, 지수선물 일제 상승…나스닥 0.12%↑ ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006822986?sid=101",
+			"writer": "뉴스1"
+		},
+		"106": {
+			"title": " SK證 \"코스모신소재, 가파른 실적 개선 가능성 주목\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873732?sid=101",
+			"writer": "뉴시스"
+		},
+		"107": {
+			"title": " [클릭 e종목]“연우, 1분기 저점으로 상저하고 예상” ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262786?sid=101",
+			"writer": "아시아경제"
+		},
+		"108": {
+			"title": " 삼성SDI, AMPC 반영 시작…경쟁사 대비 성장세 뚜렷-SK ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492045?sid=101",
+			"writer": "이데일리"
+		},
+		"109": {
+			"title": " 흥국證 \"디지털대성, 주주가치 제고 정책 긍정적\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873733?sid=101",
+			"writer": "뉴시스"
+		},
+		"110": {
+			"title": " \"작년보다 더운 여름, 빙그레 주가도 상승세 이어갈 것\"-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890459?sid=101",
+			"writer": "머니투데이"
+		},
+		"111": {
+			"title": " 파멥신, 'PMC-403' 임상1상 시험계획 승인 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922825?sid=101",
+			"writer": "머니S"
+		},
+		"112": {
+			"title": " 美 부채한도 협상 결과에 쏠린 눈…국내 증시 강보합 출발 전망 [증시 개장 전 꼭 알아야 할 5가지] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847818?sid=101",
+			"writer": "한국경제"
+		},
+		"113": {
+			"title": " 포스코퓨처엠, 안정적인 사업구조 기틀 마련-SK ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747875?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"114": {
+			"title": " 美 부채협상 낙관 속…환율, 1310원 지지선 테스트[외환브리핑] ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492046?sid=101",
+			"writer": "이데일리"
+		},
+		"115": {
+			"title": " [3분증시] 뉴욕증시, 부채협상 관망 속 혼조…다우 0.4%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/422/0000599972?sid=101",
+			"writer": "연합뉴스TV"
+		},
+		"116": {
+			"title": " [fn마켓워치]라데팡스PE, 한미사이언스 지분 인수 '잰걸음' ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016258?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"117": {
+			"title": " 솔루스첨단소재, 대규모 증설 준비 중-SK ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747877?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"118": {
+			"title": " 포스코인터내셔널, 실적 부진 전망…목표주가 '하향'-흥국 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890461?sid=101",
+			"writer": "머니투데이"
+		},
+		"119": {
+			"title": " 베노홀딩스, 캐나다 로봇기업 인수 '3.2조원 외골격 로봇 시장 진출\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890462?sid=101",
+			"writer": "머니투데이"
+		},
+		"120": {
+			"title": " 포스코인터내셔널, 실적 둔화 불가피···목표가↓-흥국 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016259?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"121": {
+			"title": " 비씨엔씨, 반도체용 합성쿼츠 소재 부품 양산 공급 개시 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873737?sid=101",
+			"writer": "뉴시스"
+		},
+		"122": {
+			"title": " [fn마켓워치]홍대입구∙합정 상권 신축빌딩 매물로 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016260?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"123": {
+			"title": " [fn마켓워치]코람코-KB, 신월시영 3200세대 랜드마크로 '맞손' ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016262?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"124": {
+			"title": " \"하이브, 미래 성장 동력 가장 우수…위버스 본격 수익화\"-한국 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847821?sid=101",
+			"writer": "한국경제"
+		},
+		"125": {
+			"title": " 파운드리 강화해온 인텔, 전략 수정… ‘고성능 AI 칩’, 엔비디아와 경쟁 [美 증시 & IT] ",
+			"url": "https://n.news.naver.com/mnews/article/138/0002148991?sid=101",
+			"writer": "디지털데일리"
+		},
+		"126": {
+			"title": " \"한국전력, 올해 3분기 흑자전환 기대…목표가 2만 2000원\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193666?sid=101",
+			"writer": "서울경제"
+		},
+		"127": {
+			"title": " 로보티즈, 북미 전시회 참가…차세대 로봇 액츄에이터 공개 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873739?sid=101",
+			"writer": "뉴시스"
+		},
+		"128": {
+			"title": " 한국전력, 당기순이익 흑전까지는 아직-현대차 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747878?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"129": {
+			"title": " 아이티센 계열사 씨플랫폼, 스켈리티와 총판 계약 체결 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747879?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"130": {
+			"title": " [fn마켓워치]국민연금 기금위, '정부서울청사'서 열린다 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016266?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"131": {
+			"title": " \"포스코퓨처엠, 안정적인 사업기틀 마련…목표가 41만원\"-SK ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847822?sid=101",
+			"writer": "한국경제"
+		},
+		"132": {
+			"title": " 컴투스, 1.8억원 규모 자기주식 처분 결정 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922833?sid=101",
+			"writer": "머니S"
+		},
+		"133": {
+			"title": " 이녹스첨단소재, 2분기부터 OLED 물량 회복-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016268?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"134": {
+			"title": " 에스엠, 하반기 실적은 상반기 대비 개선 전망-한국투자 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890465?sid=101",
+			"writer": "머니투데이"
+		},
+		"135": {
+			"title": " 하나증권 \"SK텔레콤, 이익 성장세에 5∼8월 주가 강세 예상\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957660?sid=101",
+			"writer": "연합뉴스"
+		},
+		"136": {
+			"title": " [클릭 e종목]\"LG이노텍, 하반기 실적 상반기대비 개선\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262805?sid=101",
+			"writer": "아시아경제"
+		},
+		"137": {
+			"title": " 넥센타이어, 상저하고 실적 기대-상상인 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747880?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"138": {
+			"title": " 코람코, KB와 신월시영 재건축 성공 위해 ‘맞손’ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262809?sid=101",
+			"writer": "아시아경제"
+		},
+		"139": {
+			"title": " SK증권 \"삼성SDI, AMPC 반영 이후 성장 잠재력 커\" ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802296?sid=101",
+			"writer": "디지털타임스"
+		},
+		"140": {
+			"title": " \"SK텔레콤 이익 성장세, 5∼8월 주가 강세 예상\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103146?sid=101",
+			"writer": "한국경제TV"
+		},
+		"141": {
+			"title": " SK證 “포스코퓨처엠, 공급 계약 구조 변화로 유리해져…영업이익률 반등 본격화” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903570?sid=101",
+			"writer": "조선비즈"
+		},
+		"142": {
+			"title": " 메리츠증권, 빠르고 간편한 단기사채 투자 서비스 ‘Bond365’ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262810?sid=101",
+			"writer": "아시아경제"
+		},
+		"143": {
+			"title": " KB증권, 두산밥캣 목표가 상향…\"북미 내 강한 수요\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957677?sid=101",
+			"writer": "연합뉴스"
+		},
+		"144": {
+			"title": " [비즈人워치]바이오니아, 30년 뚝심 '코스메르나' 결실 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016511?sid=101",
+			"writer": "비즈워치"
+		},
+		"145": {
+			"title": " 빙그레, 11년만 1분기 4%대 영업이익률-IBK ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016272?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"146": {
+			"title": " 영림원소프트랩-KNIC, ‘내부회계 및 경영분석 트렌드’ 세미나 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492064?sid=101",
+			"writer": "이데일리"
+		},
+		"147": {
+			"title": " 한투 \"NCT·엑소 돌아온다…SM 목표가 25% 상향\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823041?sid=101",
+			"writer": "뉴스1"
+		},
+		"148": {
+			"title": " 한투證 “현대건설, 하반기 영업익 기대...건설업 차선호주” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903571?sid=101",
+			"writer": "조선비즈"
+		},
+		"149": {
+			"title": " 메리츠증권, 단기사채 투자 서비스 ‘Bond365’ 선봬 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492065?sid=101",
+			"writer": "이데일리"
+		},
+		"150": {
+			"title": " 뮤직카우, 스틱인베스트먼트로부터 600억원 투자 유치 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823047?sid=101",
+			"writer": "뉴스1"
+		},
+		"151": {
+			"title": " 피노바이오, ADC 개발 산업통상자원부 국책과제 수주 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747882?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"152": {
+			"title": " 한국투자證 \"에스엠, 하반기 신인그룹 데뷔 등 모멘텀 몰려\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873764?sid=101",
+			"writer": "뉴시스"
+		},
+		"153": {
+			"title": " 파멥신, '황반변성 항체 치료제' 임상1상 추진 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492067?sid=101",
+			"writer": "이데일리"
+		},
+		"154": {
+			"title": " 바이든·매카시, 3차 부채한도 협상 종료...\"생산적이나 합의점 도달 못해\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103148?sid=101",
+			"writer": "한국경제TV"
+		},
+		"155": {
+			"title": " 교통정리된 SM엔터..\"하반기부터 실적 개선\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016284?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"156": {
+			"title": " 포스코퓨처엠, 2분기 영업이익률 반등 기대 - SK ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016285?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"157": {
+			"title": " IBK투자증권 \"한화솔루션 신재생에너지 매출 성장 기대\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957686?sid=101",
+			"writer": "연합뉴스"
+		},
+		"158": {
+			"title": " 한국투자證 \"YG엔터, 신인 모멘텀 본격화…목표가↑\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873775?sid=101",
+			"writer": "뉴시스"
+		},
+		"159": {
+			"title": " 씨플랫폼, 스켈리티와 ‘클라우드 데이터 솔루션’ 총판 계약 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492076?sid=101",
+			"writer": "이데일리"
+		},
+		"160": {
+			"title": " 메리츠증권, 간편한 단기사채 투자 서비스 'Bond365' ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747885?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"161": {
+			"title": " 유진투자, '9만전자'로 목표가↑…\"메모리 사이클 변곡점 통과\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957696?sid=101",
+			"writer": "연합뉴스"
+		},
+		"162": {
+			"title": " 유진투자증권, '인도 시장 전망과 투자전략 세미나' 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747886?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"163": {
+			"title": " LG엔솔, 글로벌 2차전지 대장주로 실적 개선-SK증권 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016289?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"164": {
+			"title": " 한국전력, 요금 인상으로 3Q 흑자전환 예상-현대차증권 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016290?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"165": {
+			"title": " 씨플랫폼, 스켈리티와 클라우드 데이터 솔루션 총판 계약 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873781?sid=101",
+			"writer": "뉴시스"
+		},
+		"166": {
+			"title": " 샤페론의 아토피치료제 작용기전, SCI급 논문 ‘유럽 면역학 저널’ 에 실린 이유는 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016292?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"167": {
+			"title": " LG에너지솔루션, 전례 없는 업황…목표주가 68만원 -SK證 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890485?sid=101",
+			"writer": "머니투데이"
+		},
+		"168": {
+			"title": " 하나증권 \"연우, 1분기 저점으로 실적 반등\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016295?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"169": {
+			"title": " \"한국전력, 하반기 중 흑자전환 가능…순이익은 아직\"-현대차 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847831?sid=101",
+			"writer": "한국경제"
+		},
+		"170": {
+			"title": " SK증권 “LG에너지솔루션, 올해 시장 기대치 상회 실적 예상...목표가 68만원” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903576?sid=101",
+			"writer": "조선비즈"
+		},
+		"171": {
+			"title": " KB운용, ‘머니마켓 액티브 ETF’ 순자산 5000억 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715042?sid=101",
+			"writer": "데일리안"
+		},
+		"172": {
+			"title": " 골드만삭스, 하락한 에너지주 '줍줍' 기회 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847833?sid=101",
+			"writer": "한국경제"
+		},
+		"173": {
+			"title": " [클릭 e종목]\"지니언스, 역대 1분기 최대 매출\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262839?sid=101",
+			"writer": "아시아경제"
+		},
+		"174": {
+			"title": " SK증권, SK오션플랜트 투자의견 '매수'…\"신야드 착공 효과\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957715?sid=101",
+			"writer": "연합뉴스"
+		},
+		"175": {
+			"title": " 양석조 \"자본시장범죄 대응 '골든타임' 지켜내겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890491?sid=101",
+			"writer": "머니투데이"
+		},
+		"176": {
+			"title": " 김주현 \"CFD 실제투자자 유형 표기, 연간 '비상체제' 가동\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890492?sid=101",
+			"writer": "머니투데이"
+		},
+		"177": {
+			"title": " 영림원소프트랩, '내부회계·경영분석 트렌드' 세미나 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873795?sid=101",
+			"writer": "뉴시스"
+		},
+		"178": {
+			"title": " 'KBSTAR 머니마켓액티브' ETF…2주 만에 순자산 5000억원 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890493?sid=101",
+			"writer": "머니투데이"
+		},
+		"179": {
+			"title": " 엑스피펜(XPPen) 액정 타블렛, 세계 최고의 글로벌 자동차사에 공급 사용중 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193677?sid=101",
+			"writer": "서울경제"
+		},
+		"180": {
+			"title": " [속보]이복현 “주가 급락 사태 감지 못해…국민들께 송구” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492085?sid=101",
+			"writer": "이데일리"
+		},
+		"181": {
+			"title": " “빙그레, 2분기도 호실적 기대, 추가 상승여력 충분”…목표가 ↑ ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133964?sid=101",
+			"writer": "매일경제"
+		},
+		"182": {
+			"title": " [속보]손병두 \"CFD 실제 거래주체 표기한다\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492086?sid=101",
+			"writer": "이데일리"
+		},
+		"183": {
+			"title": " 금융위‧금감원‧거래소‧검찰 \"불공정거래 뿌리 뽑는다\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016305?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"184": {
+			"title": " 금감원, KB·하나증권 불법자전거래 의혹 검사 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873798?sid=101",
+			"writer": "뉴시스"
+		},
+		"185": {
+			"title": " [속보]김주현 “주가조작 혐의 계좌 동결 도입…엄정 심판” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492088?sid=101",
+			"writer": "이데일리"
+		},
+		"186": {
+			"title": " [스팟] 코스피 8.72포인트(0.34%) 오른 2565.80 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890496?sid=101",
+			"writer": "머니투데이"
+		},
+		"187": {
+			"title": " [코스피] 8.72p(0.34%) 오른 2565.8 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823117?sid=101",
+			"writer": "뉴스1"
+		},
+		"188": {
+			"title": " [코스닥] 1.53p(0.18%) 오른 853.57 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823119?sid=101",
+			"writer": "뉴스1"
+		},
+		"189": {
+			"title": " 코스피, 8.72p(0.34%) 오른 2565.80에 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016307?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"190": {
+			"title": " [시황] 코스피, 0.34%(8.72포인트) 오른 2565.80 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000218231?sid=101",
+			"writer": "더팩트"
+		},
+		"191": {
+			"title": " 코스피, 9.39P 오른 2566.47 출발(0.37%↑) ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262850?sid=101",
+			"writer": "아시아경제"
+		},
+		"192": {
+			"title": " [달러·원] 환율 4.1원 내린 1314원 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823121?sid=101",
+			"writer": "뉴스1"
+		},
+		"193": {
+			"title": " 코스닥, 1.99P 오른 854.03 출발(0.23%↑) ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262852?sid=101",
+			"writer": "아시아경제"
+		},
+		"194": {
+			"title": " [코스피(개장)] 8.72포인트(0.34%) 오른 2565.80 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193679?sid=101",
+			"writer": "서울경제"
+		},
+		"195": {
+			"title": " [코스닥(개장)] 1.53포인트(0.18%) 오른 853.57 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193681?sid=101",
+			"writer": "서울경제"
+		},
+		"196": {
+			"title": " \"전례없는 업황…글로벌 2차전지 대장주 꿰찬다\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103154?sid=101",
+			"writer": "한국경제TV"
+		},
+		"197": {
+			"title": " 코스피, 8.72포인트(0.34%) 오른 2565.80포인트로 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922856?sid=101",
+			"writer": "머니S"
+		},
+		"198": {
+			"title": " 코스피 2565.80(▲0.34%), 코스닥 853.57(▲0.18%), 원·달러 환율 1314.0원(▼4.1원) 개장[시황] ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873816?sid=101",
+			"writer": "뉴시스"
+		},
+		"199": {
+			"title": " 코스피, 2,560대에서 소폭 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957731?sid=101",
+			"writer": "연합뉴스"
+		},
+		"200": {
+			"title": " '주가조작' 뿌리 뽑는다…금융당국에 검찰까지 가세 \"비상대응 체계\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823123?sid=101",
+			"writer": "뉴스1"
+		},
+		"201": {
+			"title": " IBK證 \"빙그레, 가격 인상·더운 날씨에 2분기 호실적 기대…목표가 상향\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823127?sid=101",
+			"writer": "뉴스1"
+		},
+		"202": {
+			"title": " 주가급락 사태에 이복현 “국민들께 송구…조직 체계 개편” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492092?sid=101",
+			"writer": "이데일리"
+		},
+		"203": {
+			"title": " 거래소 \"하한가 8종목 분석 마쳐…중장기 주가조작도 잡아낼 것\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492094?sid=101",
+			"writer": "이데일리"
+		},
+		"204": {
+			"title": " 파멥신, 새로운 기전의 ‘황반변성 항체 치료제’ 임상1상 추진 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133968?sid=101",
+			"writer": "매일경제"
+		},
+		"205": {
+			"title": " [특징주] LG전자, 올레드 TV 글로벌 점유율 1위에 강보합세 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715050?sid=101",
+			"writer": "데일리안"
+		},
+		"206": {
+			"title": " ‘KB STAR 머니마켓액티브 ETF', 출시 2주만에 순자산 5000억원 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016315?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"207": {
+			"title": " 코스피, 장초반 0.29% 오른 2564선…코스닥 0.25% 상승(2보) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823137?sid=101",
+			"writer": "뉴스1"
+		},
+		"208": {
+			"title": " 한국證 “하이브 목표가 36만5000원…위버스 수익 본격화” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903581?sid=101",
+			"writer": "조선비즈"
+		},
+		"209": {
+			"title": " [데이터로 보는 증시]해외 주요 증시 동향(5월 22일) ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193683?sid=101",
+			"writer": "서울경제"
+		},
+		"210": {
+			"title": " \"삼성·하이닉스 단기 수혜...제재 장기화는 악재\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103156?sid=101",
+			"writer": "한국경제TV"
+		},
+		"211": {
+			"title": " '개미의 힘' 코스닥, 엿새째 상승…850선서 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492105?sid=101",
+			"writer": "이데일리"
+		},
+		"212": {
+			"title": " [특징주]에스와이, 우크라이나 재건 사업 수혜 기대감 '급등' ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262864?sid=101",
+			"writer": "아시아경제"
+		},
+		"213": {
+			"title": " [특징주]파멥신, '황반변성 항체 치료제' 식약처 임상1상 계획 승인에 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492109?sid=101",
+			"writer": "이데일리"
+		},
+		"214": {
+			"title": " 하이證 “국내 수출경기, 이르면 3분기말부터 개선 기대” ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715056?sid=101",
+			"writer": "데일리안"
+		},
+		"215": {
+			"title": " [특징주] CJ 바이오사이언스, 650억원 유상증자에 10% 급락 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957755?sid=101",
+			"writer": "연합뉴스"
+		},
+		"216": {
+			"title": " 베노홀딩스, 78억원 규모 휴먼인모션로보틱스 주식 취득 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922863?sid=101",
+			"writer": "머니S"
+		},
+		"217": {
+			"title": " [특징주]이노메트리, 배터리 검사 3D CT 장비로 진화…LG·삼성·SK 공급 부각↑ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262867?sid=101",
+			"writer": "아시아경제"
+		},
+		"218": {
+			"title": " 빗썸, 비트코인 피자데이 맞아 대한적십자사에 2000만원 기부 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823158?sid=101",
+			"writer": "뉴스1"
+		},
+		"219": {
+			"title": " 테슬라發 훈풍에 이차전지주 강세…포스코퓨처엠 3%대 상승 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890506?sid=101",
+			"writer": "머니투데이"
+		},
+		"220": {
+			"title": " 메리츠증권, 단기사채 투자 서비스 ‘Bond365’ 개편 ",
+			"url": "https://n.news.naver.com/mnews/article/468/0000946194?sid=101",
+			"writer": "스포츠서울"
+		},
+		"221": {
+			"title": " SG증권發 매도폭탄?…최대주주 매수에 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103159?sid=101",
+			"writer": "한국경제TV"
+		},
+		"222": {
+			"title": " [특징주] 코오롱인더, 차세대 친환경 플라스틱 소재 PHA 개발에 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715064?sid=101",
+			"writer": "데일리안"
+		},
+		"223": {
+			"title": " 코스피, 개인·기관 매수세 유입에 강보합 출발…2560선 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492113?sid=101",
+			"writer": "이데일리"
+		},
+		"224": {
+			"title": " 한미반도체, 25일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922865?sid=101",
+			"writer": "머니S"
+		},
+		"225": {
+			"title": " 美 합병 승인 '눈치보기'...대한-아시아나항공 보합권 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103160?sid=101",
+			"writer": "한국경제TV"
+		},
+		"226": {
+			"title": " KB운용 ‘KBSTAR 머니마켓액티브 ETF’ 순자산 5000억 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146943?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"227": {
+			"title": " 불공정거래 처벌 약하다?...금융위원장 \"그동안 미흡했다\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016327?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"228": {
+			"title": " 이복현 \"주가조작 사전감지 못해 송구...업무·조직체계 개편\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016328?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"229": {
+			"title": " [특징주]팸텍, 스팩 합병상장 첫날 17%대 약세 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492120?sid=101",
+			"writer": "이데일리"
+		},
+		"230": {
+			"title": " 판타지오 신인 루네이트, 6월 15일 데뷔…앨범명은 'CONTINUE?' ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890509?sid=101",
+			"writer": "머니투데이"
+		},
+		"231": {
+			"title": " 플레이태그, 40억 규모 프리 시리즈A 투자 유치 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492121?sid=101",
+			"writer": "이데일리"
+		},
+		"232": {
+			"title": " 이복현 \"금감원 조직 체계 개선으로 시장질서 확립하겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890512?sid=101",
+			"writer": "머니투데이"
+		},
+		"233": {
+			"title": " 코스피, 기관 '사자'에 소폭 상승…\"매물 소화 과정 진행\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847842?sid=101",
+			"writer": "한국경제"
+		},
+		"234": {
+			"title": " 환율, 하락 출발해 1310원 초반대…5거래일째 내림세 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492124?sid=101",
+			"writer": "이데일리"
+		},
+		"235": {
+			"title": " 비트코인, 3600만원대 깨져…美 부채한도 협상 관망 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873860?sid=101",
+			"writer": "뉴시스"
+		},
+		"236": {
+			"title": " 자본시장 4개기관, 불공정거래 공동감시체계 강화…금감원장 “無관용원칙으로 질서확립” [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146947?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"237": {
+			"title": " [특징주]포스코퓨처엠, 5%대 강세…證 \"목표가 41만원\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492126?sid=101",
+			"writer": "이데일리"
+		},
+		"238": {
+			"title": " 양석조 \"불공정거래 끝까지 추적...골든타임 지켜내겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016331?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"239": {
+			"title": " 비씨엔씨, 글로벌 6조 시장 반도체 쿼츠 세계최초 양산…H·S사 납품 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747896?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"240": {
+			"title": " [특징주] 팸텍, 코스닥 입성 첫날 -16% ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193687?sid=101",
+			"writer": "서울경제"
+		},
+		"241": {
+			"title": " 김주현 “올해 내내 주가조작 비상대응”…조사·처벌 강화 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492133?sid=101",
+			"writer": "이데일리"
+		},
+		"242": {
+			"title": " 코스피·코스닥 동반 상승 출발…외인 장 초반 순매도 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262876?sid=101",
+			"writer": "아시아경제"
+		},
+		"243": {
+			"title": " 금융위·금감원·거래소·남부지검 \"자본시장 불공정거래 뿌리 뽑는다\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262877?sid=101",
+			"writer": "아시아경제"
+		},
+		"244": {
+			"title": " 국내 증시 상승 출발…코스피는 '포스코' 코스닥은 '에코프로' ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890515?sid=101",
+			"writer": "머니투데이"
+		},
+		"245": {
+			"title": " CJ 바이오사이언스, 650억 유상증자 결정에 장 초반 약세 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890516?sid=101",
+			"writer": "머니투데이"
+		},
+		"246": {
+			"title": " 어펄마, 37년 전통 광진화학 2500억에 인수 완료 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133976?sid=101",
+			"writer": "매일경제"
+		},
+		"247": {
+			"title": " 日증시, 美증시 영향으로 상승 출발…닛케이지수 0.51%↑ ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873872?sid=101",
+			"writer": "뉴시스"
+		},
+		"248": {
+			"title": " '650억원 유상증자' CJ바이오사이언스, 주가 9% '급락' ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847854?sid=101",
+			"writer": "한국경제"
+		},
+		"249": {
+			"title": " 2차전지株 강세…\"공매도 1조 육박\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103164?sid=101",
+			"writer": "한국경제TV"
+		},
+		"250": {
+			"title": " 코람코, KB와 신월시영 재건축 업무협약…3200가구 대단지 시동 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492143?sid=101",
+			"writer": "이데일리"
+		},
+		"251": {
+			"title": " [특징주]CJ바이오사이언스, 650억 유증 결정에 8%대↓ ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492145?sid=101",
+			"writer": "이데일리"
+		},
+		"252": {
+			"title": " 두산퓨얼셀, 연료전지 시스템 장기 유지 보수 계약 체결 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922872?sid=101",
+			"writer": "머니S"
+		},
+		"253": {
+			"title": " 삼부토건, 우크라이나 재건사업 참여 소식에 주가 '훨훨' ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847855?sid=101",
+			"writer": "한국경제"
+		},
+		"254": {
+			"title": " 김주현 \"불공정거래 척결 집중…올해 '비상대응체계' 가동\" ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747899?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"255": {
+			"title": " 한국투자증권, 뱅키스 계좌 채권 거래고객 5만명 돌파 이벤트 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492146?sid=101",
+			"writer": "이데일리"
+		},
+		"256": {
+			"title": " 리서치알음 \"슈가플레이션 수혜주 3選\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262884?sid=101",
+			"writer": "아시아경제"
+		},
+		"257": {
+			"title": " 양지사, 유성원 사외이사 자진사임 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492149?sid=101",
+			"writer": "이데일리"
+		},
+		"258": {
+			"title": " 1,200조 재건사업 기대감…삼부토건 연이틀 급등 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103165?sid=101",
+			"writer": "한국경제TV"
+		},
+		"259": {
+			"title": " 상승랠리 韓 증시…이차전지·자동차 장 초반 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103166?sid=101",
+			"writer": "한국경제TV"
+		},
+		"260": {
+			"title": " 양지사, 유성원 사외이사 자진사임 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922873?sid=101",
+			"writer": "머니S"
+		},
+		"261": {
+			"title": " 두산퓨얼셀, 연료전지 시스템 장기유지보수계약...‘3121억원 규모’ ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492152?sid=101",
+			"writer": "이데일리"
+		},
+		"262": {
+			"title": " 비씨엔씨, 세계 최초 반도체용 합성쿼츠(QD9+) 소재 부품 양산 ",
+			"url": "https://n.news.naver.com/mnews/article/057/0001744120?sid=101",
+			"writer": "MBN"
+		},
+		"263": {
+			"title": " 내친 김에 '9만전자'…\"메모리 사이클 변곡점 넘었다\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103167?sid=101",
+			"writer": "한국경제TV"
+		},
+		"264": {
+			"title": " [특징주] 삼부토건, 우크라이나 재건 포럼 참석에 이틀째 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903592?sid=101",
+			"writer": "조선비즈"
+		},
+		"265": {
+			"title": " [클릭 e종목]“와이엠텍, EV 릴레이 전문기업…구조적 성장 예상” ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262885?sid=101",
+			"writer": "아시아경제"
+		},
+		"266": {
+			"title": " [개장]코스피, 기관·개인 순매수에 2570포인트 돌파 시도 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922875?sid=101",
+			"writer": "머니S"
+		},
+		"267": {
+			"title": " [탄소중립도시 부산] ⑨ 친환경 시설 투자 확대하는 녹색금융 도시 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957802?sid=101",
+			"writer": "연합뉴스"
+		},
+		"268": {
+			"title": " CJ 바이오사이언스, 650억원 유상증자 결정에 급락 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133982?sid=101",
+			"writer": "매일경제"
+		},
+		"269": {
+			"title": " 삼부토건[핫스탁] ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873893?sid=101",
+			"writer": "뉴시스"
+		},
+		"270": {
+			"title": " \"580억 투자해 주인 바뀐다\"...크리스탈지노믹스 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103171?sid=101",
+			"writer": "한국경제TV"
+		},
+		"271": {
+			"title": " 마스턴운용, 글로벌 ESG 이니셔티브 'TCFD' 서포터즈 가입 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492157?sid=101",
+			"writer": "이데일리"
+		},
+		"272": {
+			"title": " 이복현 금감원장 \"주가폭락 감지 못해 송구…업무·조직체계 개선\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847859?sid=101",
+			"writer": "한국경제"
+		},
+		"273": {
+			"title": " 손병두 \"불공정거래 세력이 시장에 발붙일 수 없도록 단호히 대응\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890526?sid=101",
+			"writer": "머니투데이"
+		},
+		"274": {
+			"title": " [특징주] CJ 바이오사이언스, 650억 유상증자에 -8% ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193697?sid=101",
+			"writer": "서울경제"
+		},
+		"275": {
+			"title": " [속보]김주현 “법 개정되면 라덕연 주가조작단도 엄벌” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492159?sid=101",
+			"writer": "이데일리"
+		},
+		"276": {
+			"title": " 월가 황제 “은행에 문제 일으킬 가능성 가장 큰 영역은 상업용 부동산\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103172?sid=101",
+			"writer": "한국경제TV"
+		},
+		"277": {
+			"title": " 뮤직카우, 스틱인베스트먼트로부터 600억원 추가 유치 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802303?sid=101",
+			"writer": "디지털타임스"
+		},
+		"278": {
+			"title": " [특징주] 비씨엔씨, 반도체용 합성쿼츠 소재 부품 양산… 글로벌 업체 공급에 상한가 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922878?sid=101",
+			"writer": "머니S"
+		},
+		"279": {
+			"title": " 유진투자증권, '인도 시장 전망과 투자전략 세미나' 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492163?sid=101",
+			"writer": "이데일리"
+		},
+		"280": {
+			"title": " 코스피 상승 출발, 원·달러 환율 하락 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873917?sid=101",
+			"writer": "뉴시스"
+		},
+		"281": {
+			"title": " 코스피 상승 출발, 원·달러 환율 하락 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873920?sid=101",
+			"writer": "뉴시스"
+		},
+		"282": {
+			"title": " 코스피·코스닥 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873922?sid=101",
+			"writer": "뉴시스"
+		},
+		"283": {
+			"title": " 코스피·코스닥 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873923?sid=101",
+			"writer": "뉴시스"
+		},
+		"284": {
+			"title": " 코스피 상승 출발, 원·달러 환율 하락 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873924?sid=101",
+			"writer": "뉴시스"
+		},
+		"285": {
+			"title": " [ET라씨로] CJ바이오사이언스, 650억원 규모 유상증자에 장초반 약세 ",
+			"url": "https://n.news.naver.com/mnews/article/030/0003101447?sid=101",
+			"writer": "전자신문"
+		},
+		"286": {
+			"title": " 이복현 금감원장 \"주가조작 사전감지 못해 송구…조사 체계 개선할 것\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262894?sid=101",
+			"writer": "아시아경제"
+		},
+		"287": {
+			"title": " 팸텍, 스팩 합병 상장 첫날 15% '급락' ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847864?sid=101",
+			"writer": "한국경제"
+		},
+		"288": {
+			"title": " 아담스 스트리트 “벤처캐피탈 시장이 공모시장 성과 웃돌 것” ",
+			"url": "https://n.news.naver.com/mnews/article/243/0000045265?sid=101",
+			"writer": "이코노미스트"
+		},
+		"289": {
+			"title": " [특징주]CJ바이오사이언스, 650억원 규모 유상증자에 8%대 ↓ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262895?sid=101",
+			"writer": "아시아경제"
+		},
+		"290": {
+			"title": " \"땡큐 포드\"…테슬라 4.8% 급등, 5일간 13%대 상승 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890530?sid=101",
+			"writer": "머니투데이"
+		},
+		"291": {
+			"title": " 코스피, 소폭 올라 2,560대…美부채협상 불발에 상승 폭 제한(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957827?sid=101",
+			"writer": "연합뉴스"
+		},
+		"292": {
+			"title": " 디앤디인베스트먼트, 인천 남청라 물류센터 1050억에 매입 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146963?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"293": {
+			"title": " 양지사, 유성원 사외이사 자진사임[주목 e공시] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847865?sid=101",
+			"writer": "한국경제"
+		},
+		"294": {
+			"title": " 초단기 채권형 ETF 인기…‘KBSTAR 머니마켓액티브’ 순자산 5000억 원 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193701?sid=101",
+			"writer": "서울경제"
+		},
+		"295": {
+			"title": " 김주현 \"CFD 실제투자자 유형 표기…비상대응체계 가동\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873936?sid=101",
+			"writer": "뉴시스"
+		},
+		"296": {
+			"title": " 코스피, 개인·기관 '사자' 상승…美 부채한도 협상 낙관 확대[개장시황] ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823274?sid=101",
+			"writer": "뉴스1"
+		},
+		"297": {
+			"title": " UBS \"스포츠베팅업체 드래프트킹스, 매출 확대 전망...매수로 상향\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103175?sid=101",
+			"writer": "한국경제TV"
+		},
+		"298": {
+			"title": " [특징주]토비스, 전기차 충전 통신 솔루션 기업 '글로쿼드텍' 지분 인수… BYD, CATL 공급 부각 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922883?sid=101",
+			"writer": "머니S"
+		},
+		"299": {
+			"title": " 채권시장 참여자 89% “이번주 기준금리 동결” [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146967?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"300": {
+			"title": " [특징주]삼부토건, 우크라 재건사업 참여 기대감에 18%대 급등 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262903?sid=101",
+			"writer": "아시아경제"
+		},
+		"301": {
+			"title": " 한투證, 뱅키스 계좌 채권 거래고객 5만명 돌파 이벤트 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715085?sid=101",
+			"writer": "데일리안"
+		},
+		"302": {
+			"title": " ‘주가조작’ 라덕연의 자금집사 조사 받았다…오리무중 ‘쩐’의 행방 잡히나 [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146969?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"303": {
+			"title": " 코스피, 美 부채한도 재협상 주목…기관·개인 '사자' ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747907?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"304": {
+			"title": " 하락 출발한 원·달러 환율 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873956?sid=101",
+			"writer": "뉴시스"
+		},
+		"305": {
+			"title": " '월가 쪽집게' 마이크 윌슨 \"새 강세장 아냐...투자자들 속아선 안돼\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103176?sid=101",
+			"writer": "한국경제TV"
+		},
+		"306": {
+			"title": " [특징주]크리스탈지노믹스, 대규모 자금 조달…SKT·서울대병원 등과 협업 기대 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262905?sid=101",
+			"writer": "아시아경제"
+		},
+		"307": {
+			"title": " HLB생활건강 '엘리샤코이', 테트라포스 필링 패드 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890532?sid=101",
+			"writer": "머니투데이"
+		},
+		"308": {
+			"title": " 이복현 \"주가 조작 위법 행위에 무관용 원칙 적용\" ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747909?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"309": {
+			"title": " 손병두 \"CFD 사건 해결에 모든 역량 쏟을 것\" ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747910?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"310": {
+			"title": " [시황] 코스피, ‘기관 사자’ 7거래일째 상승세…2570선 상회 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715088?sid=101",
+			"writer": "데일리안"
+		},
+		"311": {
+			"title": " 外人, 삼성전자에 ‘올인’…올 들어 9조1403억원 순매수로 ‘역대 최대’ [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146972?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"312": {
+			"title": " 김주현 금융위원장 “주가조작 척결 위해 비상대응체계 가동”…이복현 금감원장은 “국민께 송구” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903602?sid=101",
+			"writer": "조선비즈"
+		},
+		"313": {
+			"title": " “돈 무조건 벌수 있다”...한달간 106% 폭등한 이 기업, 미국 개미들 ‘두근두근’ [월가월부] ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005133991?sid=101",
+			"writer": "매일경제"
+		},
+		"314": {
+			"title": " 오늘 증시 개장 시황은? ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873962?sid=101",
+			"writer": "뉴시스"
+		},
+		"315": {
+			"title": " 코스피 상승, 환율 하락 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873963?sid=101",
+			"writer": "뉴시스"
+		},
+		"316": {
+			"title": " 코스피 상승, 환율 하락 개장 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873964?sid=101",
+			"writer": "뉴시스"
+		},
+		"317": {
+			"title": " 증시 개장 시황은 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873965?sid=101",
+			"writer": "뉴시스"
+		},
+		"318": {
+			"title": " 상승 개장한 코스피·코스닥 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873966?sid=101",
+			"writer": "뉴시스"
+		},
+		"319": {
+			"title": " 코스피·코스닥 상승 출발 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873968?sid=101",
+			"writer": "뉴시스"
+		},
+		"320": {
+			"title": " 코스피 오르고, 환율 내리고 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873969?sid=101",
+			"writer": "뉴시스"
+		},
+		"321": {
+			"title": " 다올투자證 \"JW중외제약, 리바로 약진에 아토피 신약 이벤트\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890534?sid=101",
+			"writer": "머니투데이"
+		},
+		"322": {
+			"title": " 삼부토건, 우크라이나 재건사업 기대감에 장 초반 급등[특징주] ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823299?sid=101",
+			"writer": "뉴스1"
+		},
+		"323": {
+			"title": " 두산퓨얼셀, 장기유지보수계약 체결 소식에 장 중 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890536?sid=101",
+			"writer": "머니투데이"
+		},
+		"324": {
+			"title": " [특징주] 강원에너지, 포드 전기차 배터리용 리튬 공급 업체 신규 계약…리튬 생산 공장 부각 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922888?sid=101",
+			"writer": "머니S"
+		},
+		"325": {
+			"title": " '제2의 라덕연' 막는다… 금융당국, 연중 '비상대응체계' 가동 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890538?sid=101",
+			"writer": "머니투데이"
+		},
+		"326": {
+			"title": " 에이프로젠 \"AP209,CRO와 계약…골관절염 블록버스터 신약 기대\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890539?sid=101",
+			"writer": "머니투데이"
+		},
+		"327": {
+			"title": " 메리츠증권, 단기사채 투자 서비스 ‘Bond365’ 확대 개편 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715093?sid=101",
+			"writer": "데일리안"
+		},
+		"328": {
+			"title": " 비씨엔씨, 반도체용 합성쿼츠 소재 공급 개시 소식에 '上' ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847869?sid=101",
+			"writer": "한국경제"
+		},
+		"329": {
+			"title": " [오전 시황] 코스피, 美부채협상 불발에 제한된 오름세…2560대로 소폭 상승 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193711?sid=101",
+			"writer": "서울경제"
+		},
+		"330": {
+			"title": " \"1분기 사상 최대 수주\"...코스닥 입성 첫날 급락 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103178?sid=101",
+			"writer": "한국경제TV"
+		},
+		"331": {
+			"title": " 이복현 \"주가조작 감지 못해 송구...사전 예방적 감시 기능 강화\" ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715094?sid=101",
+			"writer": "데일리안"
+		},
+		"332": {
+			"title": " 토비스, 국내 전장용 디스플레이 공장 준공식 개최…하반기 제품 양산 공급 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492188?sid=101",
+			"writer": "이데일리"
+		},
+		"333": {
+			"title": " 김주현 \"법 개정되면 수사중인 주가조작범도 처벌 가능\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011873998?sid=101",
+			"writer": "뉴시스"
+		},
+		"334": {
+			"title": " \"왜 오르는거야?\"...의료 AI주 일제히 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103179?sid=101",
+			"writer": "한국경제TV"
+		},
+		"335": {
+			"title": " 거래소 대표지수에 'SG증권발 폭락주' 들어간 까닭은 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016514?sid=101",
+			"writer": "비즈워치"
+		},
+		"336": {
+			"title": " 셀바스AI, E2E 음성인식 엔진 개발…소형기기에도 탑재 가능 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890542?sid=101",
+			"writer": "머니투데이"
+		},
+		"337": {
+			"title": " 에이프로젠 “관절염 신약, 다국적 제약사 미팅 등 사업화 잰걸음” ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016371?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"338": {
+			"title": " 손병두 이사장 \"CFD 실제 거래 주체 표기하겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262914?sid=101",
+			"writer": "아시아경제"
+		},
+		"339": {
+			"title": " HLB생활건강 ‘엘리샤코이’, 테트라포스 필링 패드 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492193?sid=101",
+			"writer": "이데일리"
+		},
+		"340": {
+			"title": " “지난해 내부회계관리제도 ‘비적정’ 상장사 39곳…최근 4개년 간 최대치” ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146978?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"341": {
+			"title": " 국내 투자자 日주식 보관금액 20개월來 최고…일본 ETF도 ‘훨훨’ [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146979?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"342": {
+			"title": " 신한투자증권, 다른 투자자 매매정보 알려주는 '알파 3.0' 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957880?sid=101",
+			"writer": "연합뉴스"
+		},
+		"343": {
+			"title": " 신한證 ‘신한알파 3.0’ 출시...“고객 중심 MTS 초점” ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715102?sid=101",
+			"writer": "데일리안"
+		},
+		"344": {
+			"title": " LG전자, 스타일러 출시 12주년 기념 이벤트 실시…감성 숙소에서 즐기는 ‘스타일러 스테이’ ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193718?sid=101",
+			"writer": "서울경제"
+		},
+		"345": {
+			"title": " 김주현 금융위원장 \"CFD 제도 개선방안 이달 중 발표\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193719?sid=101",
+			"writer": "서울경제"
+		},
+		"346": {
+			"title": " [전문]김주현 “주가조작꾼 퇴출…올해 비상대응” ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492199?sid=101",
+			"writer": "이데일리"
+		},
+		"347": {
+			"title": " 에이프로젠, 관절염 신약 임상 CRO 계약·임상시험약 생산 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262923?sid=101",
+			"writer": "아시아경제"
+		},
+		"348": {
+			"title": " 팸텍, 코스닥 상장…글로벌 경쟁력 강화 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016381?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"349": {
+			"title": " CJ바이오사이언스, 대규모 유상증자 결정에 9% 약세[특징주] ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823360?sid=101",
+			"writer": "뉴스1"
+		},
+		"350": {
+			"title": " 포스코인터내셔널, 실적 감소 우려에 4%대 하락 [특징주] ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823362?sid=101",
+			"writer": "뉴스1"
+		},
+		"351": {
+			"title": " 한미반도체, 25일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874040?sid=101",
+			"writer": "뉴시스"
+		},
+		"352": {
+			"title": " 팸텍 코스닥시장 상장기념식 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823369?sid=101",
+			"writer": "뉴스1"
+		},
+		"353": {
+			"title": " [특징주] 팸텍, 스팩 상장 첫날 15% 급락 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747920?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"354": {
+			"title": " [Why&Next]유동성 쪼그라들자 민낯 드러난 한국 자본시장 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262927?sid=101",
+			"writer": "아시아경제"
+		},
+		"355": {
+			"title": " [포토] 팸텍, 코스닥시장 상장기념식 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715109?sid=101",
+			"writer": "데일리안"
+		},
+		"356": {
+			"title": " 쎄트렉아이, 23일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874041?sid=101",
+			"writer": "뉴시스"
+		},
+		"357": {
+			"title": " 한국투자증권, 비대면 뱅키스 채권 고객 5만명 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802317?sid=101",
+			"writer": "디지털타임스"
+		},
+		"358": {
+			"title": " 양지사, 유성원 사외이사 자진 사임 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874042?sid=101",
+			"writer": "뉴시스"
+		},
+		"359": {
+			"title": " 두산퓨어셀, 1200억 규모 연료전지 시스템 유지보수 계약 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874043?sid=101",
+			"writer": "뉴시스"
+		},
+		"360": {
+			"title": " 모건스탠리 \"미 증시 곧 시들해질 듯…지난주 상승은 패닉바잉\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013957924?sid=101",
+			"writer": "연합뉴스"
+		},
+		"361": {
+			"title": " 신한투자증권, MTS '알파 3.0' 출시…고객 요구 반영 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262937?sid=101",
+			"writer": "아시아경제"
+		},
+		"362": {
+			"title": " ‘52주 신고가’ 삼성전자 1등 공신은 外人…‘9만전자’면 코스피 2700 넘는다 [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002146999?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"363": {
+			"title": " [개장시황] 코스피 2560대서 출발…美부채협상 불발에 상승폭 제한 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147001?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"364": {
+			"title": " LG에너지솔루션·에코프로 등 이차전지주 강세 [특징주] ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823380?sid=101",
+			"writer": "뉴스1"
+		},
+		"365": {
+			"title": " 두산퓨얼셀, 1200억 규모 연료전지 시스템 유지보수 계약[주목 e공시] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847883?sid=101",
+			"writer": "한국경제"
+		},
+		"366": {
+			"title": " [특징주]씨유박스, 시총 1조 글로벌 기업 시동…전세계 톱티어 기술로 AI 의료도 ↑ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262940?sid=101",
+			"writer": "아시아경제"
+		},
+		"367": {
+			"title": " 하이서울기업 협회-씨에스쉐어링, 경력단절 여성 등 서울시 약자 동행 위한 ESG 경영 실현 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193733?sid=101",
+			"writer": "서울경제"
+		},
+		"368": {
+			"title": " ‘그림과 차트로 투자정보 보자’…신한투자증권, ‘신한알파 3.0’ 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147006?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"369": {
+			"title": " 양석조 \"불공정거래 엄정 법 집행...불법수익 끝까지 추적·환수할 것\" ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747926?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"370": {
+			"title": " 김주현 \"CFD 제도개선안 이달 중 발표…법 개정해 주가조작범 엄벌\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262944?sid=101",
+			"writer": "아시아경제"
+		},
+		"371": {
+			"title": " 빗썸, 위기가정 가구에 긴급 지원금 전달 ",
+			"url": "https://n.news.naver.com/mnews/article/469/0000740689?sid=101",
+			"writer": "한국일보"
+		},
+		"372": {
+			"title": " 에이프로젠, 관절염 신약 임상 CRO 계약∙임상시험약 생산 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005134010?sid=101",
+			"writer": "매일경제"
+		},
+		"373": {
+			"title": " CNBC \"中 고립시키는 것 불가능할 뿐만 아니라 매우 위험\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823409?sid=101",
+			"writer": "뉴스1"
+		},
+		"374": {
+			"title": " 금융당국·檢 수장들 \"주가조작 무관용 처벌…불법수익 끝까지 환수\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193745?sid=101",
+			"writer": "서울경제"
+		},
+		"375": {
+			"title": " '더 글로리' 믿었던 개미들 '눈물'…\"결국 주가 10만원 간다\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847894?sid=101",
+			"writer": "한국경제"
+		},
+		"376": {
+			"title": " KB자산운용 'MMF ETF', 순자산 5000억원 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847895?sid=101",
+			"writer": "한국경제"
+		},
+		"377": {
+			"title": " 손병두 “CFD 해결에 역량 집중…불공정거래 단호히 대응” ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715123?sid=101",
+			"writer": "데일리안"
+		},
+		"378": {
+			"title": " “주가 폭락사태 비상대응 가동”…금융당국 수장·남부지검장 집결 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005134015?sid=101",
+			"writer": "매일경제"
+		},
+		"379": {
+			"title": " 코스피, 美 부채협상 불발에 상승폭 제한… 2560선 거래 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922912?sid=101",
+			"writer": "머니S"
+		},
+		"380": {
+			"title": " 르노코리아 2023 협력업체 컨퍼런스에서 우수협력사 5개사 선정... ‘연구 개발상’에는 에이엠에스 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193747?sid=101",
+			"writer": "서울경제"
+		},
+		"381": {
+			"title": " 손병두 이사장 \"CFD 실제 거래 주체 표기하겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193748?sid=101",
+			"writer": "서울경제"
+		},
+		"382": {
+			"title": " 셀리드, 코로나19 예방 백신 제3상 임상시험 계획 신청 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922914?sid=101",
+			"writer": "머니S"
+		},
+		"383": {
+			"title": " 마스턴운용,글로벌 ESG 이니셔티브 ‘TCFD’ 서포터즈 가입 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715127?sid=101",
+			"writer": "데일리안"
+		},
+		"384": {
+			"title": " 한국투자증권, 뱅키스 채권 거래고객 5만명 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016413?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"385": {
+			"title": " NH투자증권, 유튜브 신규 콘텐츠 론칭 기념 이벤트 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874152?sid=101",
+			"writer": "뉴시스"
+		},
+		"386": {
+			"title": " 빗썸, 위기 가정 지원에 2000만원 기부 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874153?sid=101",
+			"writer": "뉴시스"
+		},
+		"387": {
+			"title": " 리노공업, 25일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922919?sid=101",
+			"writer": "머니S"
+		},
+		"388": {
+			"title": " 금투협, ‘엑셀을 활용한 실전채권투자’ 과정 개설 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715131?sid=101",
+			"writer": "데일리안"
+		},
+		"389": {
+			"title": " 아이디이노랩, 스마트병원의 '브랜드 경험 평가 관리 시스템' 발표 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193755?sid=101",
+			"writer": "서울경제"
+		},
+		"390": {
+			"title": " KB·하나증권 ‘불법 자전 거래’ 의혹…금감원, 집중 검사 돌입 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262969?sid=101",
+			"writer": "아시아경제"
+		},
+		"391": {
+			"title": " [마켓ING]부채한도 불확실성에도 꿋꿋한 코스피 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262970?sid=101",
+			"writer": "아시아경제"
+		},
+		"392": {
+			"title": " 김주현 금융위원장 \"한탕주의에 경종…법 개정되면 라덕연도 엄벌 가능\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823470?sid=101",
+			"writer": "뉴스1"
+		},
+		"393": {
+			"title": " 김주현 \"불법적 채널부터 잡아야… 범죄 리스크 인식 중요\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890597?sid=101",
+			"writer": "머니투데이"
+		},
+		"394": {
+			"title": " 동양생명, 1분기 순이익 1565억원…CSM 2.5조 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016516?sid=101",
+			"writer": "비즈워치"
+		},
+		"395": {
+			"title": " 주가조작 사태에 고개 숙인 금융당국 수장들…\"국민께 송구\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874169?sid=101",
+			"writer": "뉴시스"
+		},
+		"396": {
+			"title": " 에빅스젠, 우수한 파이프라인 개발 현황 공개 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262974?sid=101",
+			"writer": "아시아경제"
+		},
+		"397": {
+			"title": " 채권전문가 89% \"5월 금통위, 기준금리 동결 예상\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874174?sid=101",
+			"writer": "뉴시스"
+		},
+		"398": {
+			"title": " [게시판] 메리츠증권, MTS 단기사채 투자메뉴 '본드365' 확대 개편 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958062?sid=101",
+			"writer": "연합뉴스"
+		},
+		"399": {
+			"title": " 금융위·금감원·거래소·검찰 \"불공정거래 척결…부당이득 끝까지 추적\" ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922922?sid=101",
+			"writer": "머니S"
+		},
+		"400": {
+			"title": " 코인거래소 협의체 '닥사', 공식 홈페이지 개설 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874175?sid=101",
+			"writer": "뉴시스"
+		},
+		"401": {
+			"title": " 에스디바이오센서, 세계임상화학회 ‘IFCC 2023’ 참가 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262976?sid=101",
+			"writer": "아시아경제"
+		},
+		"402": {
+			"title": " 슈가플레이션 시대 주목할 수혜株는? ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016422?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"403": {
+			"title": " 사모펀드 스틱, 뮤직카우에 600억원 투자 ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005134035?sid=101",
+			"writer": "매일경제"
+		},
+		"404": {
+			"title": " \"개미들아 제발 좀 들고 있자\"…에코프로비엠 다시 분위기 타나[투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147055?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"405": {
+			"title": " \"다른 투자자 매매정보가 한눈에\"…신한투자증권, '신한알파 3.0' 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847902?sid=101",
+			"writer": "한국경제"
+		},
+		"406": {
+			"title": " [fn마켓워치]제주 애월 마레보리조트 투자 유치 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016424?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"407": {
+			"title": " 교직원공제회, '제12회 대한민국 스승상' 시상식 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016425?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"408": {
+			"title": " 현대백화점, 24일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922924?sid=101",
+			"writer": "머니S"
+		},
+		"409": {
+			"title": " 직장 잃은 '밧데리아저씨' 입 열었다…\"돈 벌어놓고 나만 피해\" ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890601?sid=101",
+			"writer": "머니투데이"
+		},
+		"410": {
+			"title": " 3배 ETF에 몰려간 서학개미…\"금리·반도체 떨어진다\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874187?sid=101",
+			"writer": "뉴시스"
+		},
+		"411": {
+			"title": " 美증시 곧 식는다?…\"지난주 상승은 패닉바잉\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103202?sid=101",
+			"writer": "한국경제TV"
+		},
+		"412": {
+			"title": " 신한투자증권, 새 MTS '알파 3.0' 출시…\"다른 투자자 매수 단가도 본다\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823499?sid=101",
+			"writer": "뉴스1"
+		},
+		"413": {
+			"title": " [fn마켓워치]국내 대형 벤처기업들 'AI 행동 분석'에 베팅 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016427?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"414": {
+			"title": " 올 여름 역대급 무더위 예고에…폭염주 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874196?sid=101",
+			"writer": "뉴시스"
+		},
+		"415": {
+			"title": " 이복현 \"시장 교란 세력에 전쟁 선포…거취 걸겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005262981?sid=101",
+			"writer": "아시아경제"
+		},
+		"416": {
+			"title": " 씨유박스, 코스닥 입성 3거래일만에 공모가 회복 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847906?sid=101",
+			"writer": "한국경제"
+		},
+		"417": {
+			"title": " 검찰 출신 이복현 \"직을 걸고 주가조작과 전쟁…국민께 사죄\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823520?sid=101",
+			"writer": "뉴스1"
+		},
+		"418": {
+			"title": " '펜타곤 폭발' 가짜사진 탓에 美 증시 잠시 흔들 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874214?sid=101",
+			"writer": "뉴시스"
+		},
+		"419": {
+			"title": " 화이자, 비만치료제 기대감에 급등…4개월간 4.5kg 감량(영상) ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492266?sid=101",
+			"writer": "이데일리"
+		},
+		"420": {
+			"title": " \"내가 투자한 종목 얼마야?\"...'신한알파 3.0' 나왔다 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016431?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"421": {
+			"title": " 갤럭시아머니트리, 31일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874225?sid=101",
+			"writer": "뉴시스"
+		},
+		"422": {
+			"title": " 리노공업, 25일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874227?sid=101",
+			"writer": "뉴시스"
+		},
+		"423": {
+			"title": " 현대백화점, 24일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874228?sid=101",
+			"writer": "뉴시스"
+		},
+		"424": {
+			"title": " \"ATM 감소 등 '현금 없는 사회' 진전 부작용 최소화해야\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958131?sid=101",
+			"writer": "연합뉴스"
+		},
+		"425": {
+			"title": " 9.5조 빚 있는 호텔롯데, 석 달 만에 또 회사채 발행...이번에도 웃돈주고 증액할 듯 ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903627?sid=101",
+			"writer": "조선비즈"
+		},
+		"426": {
+			"title": " [fn마켓워치]에이벤처스·블루포인트·아주컨티뉴엄·SV인베·굿워터캐피탈, 여행 '리브애니웨어'에 투자 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016434?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"427": {
+			"title": " 'DXVX' 품으로...에빅스젠 파이프라인, 투자자 관심 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016435?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"428": {
+			"title": " '한화오션' 닻 올랐다…국내 최대 육·해·공 방산업체 출범 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016517?sid=101",
+			"writer": "비즈워치"
+		},
+		"429": {
+			"title": " 사실상 금감원장 직 내건 이복현…\"불공정거래 척결\" ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016518?sid=101",
+			"writer": "비즈워치"
+		},
+		"430": {
+			"title": " 오늘의 증시 메모[5월 24일] ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193765?sid=101",
+			"writer": "서울경제"
+		},
+		"431": {
+			"title": " 이복현 \"시장 교란 세력에 전쟁 선포…거취 걸겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492273?sid=101",
+			"writer": "이데일리"
+		},
+		"432": {
+			"title": " 채권전문가 89% “한은, 5월 금통위에서 금리동결 예상” ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715145?sid=101",
+			"writer": "데일리안"
+		},
+		"433": {
+			"title": " 컴투버스, AI 스타트업과 손잡았다 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016519?sid=101",
+			"writer": "비즈워치"
+		},
+		"434": {
+			"title": " 닥사, 공식 홈페이지 오픈…\"코인 정보·자율규제 이행 내용 공개\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823553?sid=101",
+			"writer": "뉴스1"
+		},
+		"435": {
+			"title": " 흥국證 \"포스코인터내셔널, 경기침체에 실적 둔화 불가피…목표가 하향\" ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823559?sid=101",
+			"writer": "뉴스1"
+		},
+		"436": {
+			"title": " '주가조작 세력과의 전쟁' 나선 금융당국…\"계좌 동결하고 과징금 부과\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847913?sid=101",
+			"writer": "한국경제"
+		},
+		"437": {
+			"title": " 김병욱 의원 “리츠(REITs) 공시강화·배당확대 법안 발의” ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016444?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"438": {
+			"title": " [마켓PRO] 청약할까말까 : 가구시트 전문기업 진영, 투자매력지수 75점 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847916?sid=101",
+			"writer": "한국경제"
+		},
+		"439": {
+			"title": " 채권전문가 89% “5월 금통위 기준금리 동결 전망” ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193771?sid=101",
+			"writer": "서울경제"
+		},
+		"440": {
+			"title": " 레이크머티리얼즈, 황화리튬 대량생산 양산공정화 추진..265억 전고체 생산설비 투자 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016447?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"441": {
+			"title": " [단독] SK온, 1.5조 유치 확정…MBK-글로벌투자자 베팅한다 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193772?sid=101",
+			"writer": "서울경제"
+		},
+		"442": {
+			"title": " [특징주] 팸텍, 스팩 상장 첫날 약세...17%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016451?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"443": {
+			"title": " 이복현 \"불공정거래 세력 척결에 거취 걸겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193775?sid=101",
+			"writer": "서울경제"
+		},
+		"444": {
+			"title": " 손병두 이사장 \"CFD 매매주문 시 실제 거래 주체 표기하겠다\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847924?sid=101",
+			"writer": "한국경제"
+		},
+		"445": {
+			"title": " 유진투자증권 `인도 시장 전망과 투자전략 세미나` 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802349?sid=101",
+			"writer": "디지털타임스"
+		},
+		"446": {
+			"title": " 금융판 '범죄와의 전쟁 선포'...시장 충격 '주시' ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103212?sid=101",
+			"writer": "한국경제TV"
+		},
+		"447": {
+			"title": " 투자 혹한기에…서울투자청, '글로벌 벤처투자 서밋' 공동 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890635?sid=101",
+			"writer": "머니투데이"
+		},
+		"448": {
+			"title": " 신한투자증권, 개인에 집중한 차세대 MTS `신한알파 3.0` 출시 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802347?sid=101",
+			"writer": "디지털타임스"
+		},
+		"449": {
+			"title": " 가상자산거래소 협의체 닥사, 공식 홈페이지 오픈 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802348?sid=101",
+			"writer": "디지털타임스"
+		},
+		"450": {
+			"title": " 미래에셋증권, 주식 소액 적립식 투자서비스 오픈 ",
+			"url": "https://n.news.naver.com/mnews/article/029/0002802350?sid=101",
+			"writer": "디지털타임스"
+		},
+		"451": {
+			"title": " 코스나인, 이상섭 사외이사 자진 사임 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874335?sid=101",
+			"writer": "뉴시스"
+		},
+		"452": {
+			"title": " 이청안 작가, ‘너의 사회생활이 힘들지 않았으면 좋겠어’ 출간 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193777?sid=101",
+			"writer": "서울경제"
+		},
+		"453": {
+			"title": " 코스나인, 이상섭 사외이사 자진사임 ",
+			"url": "https://n.news.naver.com/mnews/article/417/0000922944?sid=101",
+			"writer": "머니S"
+		},
+		"454": {
+			"title": " 이지케어텍, 25일 기업설명회 개최 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874343?sid=101",
+			"writer": "뉴시스"
+		},
+		"455": {
+			"title": " ‘챗GPT’ 올라타면 상승세 문제 없다…AI 관련 TIGER ETF 3종 수익률 ‘훨훨’ [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147108?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"456": {
+			"title": " 신한투자증권, MTS ‘알파 3.0’ 출시… “투자 종목, 다른 사람 매수단가도 알려준다” ",
+			"url": "https://n.news.naver.com/mnews/article/366/0000903644?sid=101",
+			"writer": "조선비즈"
+		},
+		"457": {
+			"title": " 미래에셋박현주재단, 2023년 활동보고서 발간 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747967?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"458": {
+			"title": " ‘재반등 시작?’ 포스코퓨처엠 6%대 급등…테슬라發 훈풍에 2차전지株 ‘활짝’ [투자360] ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147113?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"459": {
+			"title": " 이복현 금감원장 \"불공정거래 세력과 전쟁…거취 건다\" ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958282?sid=101",
+			"writer": "연합뉴스"
+		},
+		"460": {
+			"title": " 채권전문가 89% “이번주 기준금리 동결” ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147122?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"461": {
+			"title": " 디앤디인베스먼트, 남청라 물류센터 1050억에 매입 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147123?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"462": {
+			"title": " ‘KBSTAR 머니마켓액티브 ETF’ 순자산 5000억 돌파 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147125?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"463": {
+			"title": " 삼성전자 9층 입주땐 코스피 2700간다 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147126?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"464": {
+			"title": " “자본시장 위법행위 엄중 처벌” ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147127?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"465": {
+			"title": " NH투자증권, 유튜브 신규 콘텐츠 '떡상메이트' 론칭 이벤트 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747969?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"466": {
+			"title": " [게시판] 미래에셋박현주재단, 2023년 활동 보고서 발간 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958285?sid=101",
+			"writer": "연합뉴스"
+		},
+		"467": {
+			"title": " 미래에셋박현주재단, 2023년 활동보고서 발간 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715166?sid=101",
+			"writer": "데일리안"
+		},
+		"468": {
+			"title": " WTO 사무총장도 네이버 신사옥 찾았다…\"54개국 4천명 방문\" ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016520?sid=101",
+			"writer": "비즈워치"
+		},
+		"469": {
+			"title": " [특징주]이스트소프트, MS와 AI사업 손 잡나…주가 20%↑ ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005263028?sid=101",
+			"writer": "아시아경제"
+		},
+		"470": {
+			"title": " [주식 초고수는 지금] 돌아온 2차전지…에코프로 매수 1위 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193785?sid=101",
+			"writer": "서울경제"
+		},
+		"471": {
+			"title": " \"주가조작 미리 못 잡아 죄송\"…고개숙인 금융기관 수장들(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492312?sid=101",
+			"writer": "이데일리"
+		},
+		"472": {
+			"title": " 금융당국 \"불공정거래 근절 할 것…비상대응체계 가동\" ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715170?sid=101",
+			"writer": "데일리안"
+		},
+		"473": {
+			"title": " 국내투자자 日주식 보관금액 20개월來 최고 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147149?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"474": {
+			"title": " 9조1403억원…외국인 삼성전자 순매수 역대 최대 ",
+			"url": "https://n.news.naver.com/mnews/article/016/0002147155?sid=101",
+			"writer": "헤럴드경제"
+		},
+		"475": {
+			"title": " [비즈人워치]배그와 놀이기구는 어떻게 만났나 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016521?sid=101",
+			"writer": "비즈워치"
+		},
+		"476": {
+			"title": " 메리츠증권, 단기사채 투자 서비스 'Bond365' 선봬 ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847931?sid=101",
+			"writer": "한국경제"
+		},
+		"477": {
+			"title": " “작을수록 강하다?”…올들어 화장품 중소형주 ‘강세’ ",
+			"url": "https://n.news.naver.com/mnews/article/009/0005134084?sid=101",
+			"writer": "매일경제"
+		},
+		"478": {
+			"title": " \"주가조작 전쟁 선포\"…금융당국, 불공정거래 대책 고심 ",
+			"url": "https://n.news.naver.com/mnews/article/031/0000747971?sid=101",
+			"writer": "아이뉴스24"
+		},
+		"479": {
+			"title": " 코스나인, 이상섭 사외이사 자진 사임 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492328?sid=101",
+			"writer": "이데일리"
+		},
+		"480": {
+			"title": " 셀리드, 코로나 예방백신 3상 시험 계획 식약처에 신청 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492329?sid=101",
+			"writer": "이데일리"
+		},
+		"481": {
+			"title": " [특징주] \"역대급 무더위 온다\"…에어컨株 상승세 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193790?sid=101",
+			"writer": "서울경제"
+		},
+		"482": {
+			"title": " [올댓차이나] 中 증시, 미중대립 우려에 혼조 개장...창업판 0.34%↓ ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874437?sid=101",
+			"writer": "뉴시스"
+		},
+		"483": {
+			"title": " 美 부채협상 '불발'...합의 기대감 '쑥' [권영훈의 증시뉴스 PICK] ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103218?sid=101",
+			"writer": "한국경제TV"
+		},
+		"484": {
+			"title": " 신한證, '신한알파 3.0' 출시…\"다른 투자자 매매동향도 한눈에\" ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874439?sid=101",
+			"writer": "뉴시스"
+		},
+		"485": {
+			"title": " 에빅스젠 \"안과 질환 및 아토피 파이프라인 보유 중\" ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492331?sid=101",
+			"writer": "이데일리"
+		},
+		"486": {
+			"title": " 머스크의 입, 이차전지주 불 지피나…슬금슬금 다시 오른다 ",
+			"url": "https://n.news.naver.com/mnews/article/008/0004890656?sid=101",
+			"writer": "머니투데이"
+		},
+		"487": {
+			"title": " \"얼마에 샀니? 난 머리\"…신한證, 타 고객 투자현황 보는 MTS 출시(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823788?sid=101",
+			"writer": "뉴스1"
+		},
+		"488": {
+			"title": " SK바사, 지역거점형 백신 허브 구축 위해 국제 협력·지원 요청 ",
+			"url": "https://n.news.naver.com/mnews/article/648/0000016522?sid=101",
+			"writer": "비즈워치"
+		},
+		"489": {
+			"title": " 코스닥, 860 회복 시도 중…2차전지주 강세 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492337?sid=101",
+			"writer": "이데일리"
+		},
+		"490": {
+			"title": " 메리츠증권, '채권365' 확대 개편…단기사채 6종 추가 ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874459?sid=101",
+			"writer": "뉴시스"
+		},
+		"491": {
+			"title": " 일 증시 단기과열 우려… “연속성장 확인뒤 들어가도 늦지 않아” ",
+			"url": "https://n.news.naver.com/mnews/article/021/0002573381?sid=101",
+			"writer": "문화일보"
+		},
+		"492": {
+			"title": " 거래소, 종목코드 체계 개편…알파벳 혼용 확대 적용 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103224?sid=101",
+			"writer": "한국경제TV"
+		},
+		"493": {
+			"title": " 거래소, 종목코드 체계 개편…알파벳 혼용해 건수 늘린다 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823827?sid=101",
+			"writer": "뉴스1"
+		},
+		"494": {
+			"title": " 가계 빚 '역대 최대' 감소…대출에 카드값까지 14조가량 줄였다 ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823828?sid=101",
+			"writer": "뉴스1"
+		},
+		"495": {
+			"title": " [올댓차이나] 홍콩 증시, 中 정책기대 등에 상승 개장...H주 0.26%↑ ",
+			"url": "https://n.news.naver.com/mnews/article/003/0011874496?sid=101",
+			"writer": "뉴시스"
+		},
+		"496": {
+			"title": " 거래소, 주식·ETN 종목코드 체계 개편…알파벳 혼용 확대 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958450?sid=101",
+			"writer": "연합뉴스"
+		},
+		"497": {
+			"title": " 녹색채권 3조9천억원 발행…온실가스 373만t 감축 ",
+			"url": "https://n.news.naver.com/mnews/article/001/0013958460?sid=101",
+			"writer": "연합뉴스"
+		},
+		"498": {
+			"title": " 거래소, 주권 등 종목코드 체계 개편...내년 1월 시행 ",
+			"url": "https://n.news.naver.com/mnews/article/119/0002715180?sid=101",
+			"writer": "데일리안"
+		},
+		"499": {
+			"title": " 종목 코드 중복 막고 발급 여력 확대한다...거래소, 체계 개편 ",
+			"url": "https://n.news.naver.com/mnews/article/014/0005016496?sid=101",
+			"writer": "파이낸셜뉴스"
+		},
+		"500": {
+			"title": " 한국거래소, 내년부터 종목코드 체계 개편 ",
+			"url": "https://n.news.naver.com/mnews/article/011/0004193800?sid=101",
+			"writer": "서울경제"
+		},
+		"501": {
+			"title": " 주식·ETN 등 중복코드 막는다…내년부터 알파벳 혼용 ",
+			"url": "https://n.news.naver.com/mnews/article/277/0005263036?sid=101",
+			"writer": "아시아경제"
+		},
+		"502": {
+			"title": " 종목코드 소진 임박…알파벳 혼용 확대한다 ",
+			"url": "https://n.news.naver.com/mnews/article/018/0005492345?sid=101",
+			"writer": "이데일리"
+		},
+		"503": {
+			"title": " 거래소, 종목코드 체계 개편…\"코드 중복 방지·발급 여력 확보\" ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847941?sid=101",
+			"writer": "한국경제"
+		},
+		"504": {
+			"title": " 금융당국, '불공정거래 전쟁' 선포…\"주가조작 범죄 처벌 대폭 강화\" ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000218287?sid=101",
+			"writer": "더팩트"
+		},
+		"505": {
+			"title": " [특징주] 팸텍, 스팩 합병 상장 첫날 14% 넘게 추락 ",
+			"url": "https://n.news.naver.com/mnews/article/629/0000218289?sid=101",
+			"writer": "더팩트"
+		},
+		"506": {
+			"title": " 중국은 위험관리 대상?…'디리스킹' 실현 가능할까 ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103228?sid=101",
+			"writer": "한국경제TV"
+		},
+		"507": {
+			"title": " 비트코인 투자자 이탈 행렬 지속...\"암호화폐 거래량 2020년 이후 최저\" ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103229?sid=101",
+			"writer": "한국경제TV"
+		},
+		"508": {
+			"title": " 에버코어 “아마존, 기술주 톱픽 순위 상향조정…AWS 긍정적” ",
+			"url": "https://n.news.naver.com/mnews/article/215/0001103230?sid=101",
+			"writer": "한국경제TV"
+		},
+		"509": {
+			"title": " '증권범죄와의 전쟁' 선포한 정부…범죄수익 2배 과징금 물린다(종합) ",
+			"url": "https://n.news.naver.com/mnews/article/421/0006823868?sid=101",
+			"writer": "뉴스1"
+		},
+		"510": {
+			"title": " 중국 GDP 대비 부채비율 또 사상 최고…'숨겨진 채무'도 급증 [강현우의 중국주식 분석] ",
+			"url": "https://n.news.naver.com/mnews/article/015/0004847947?sid=101",
+			"writer": "한국경제"
+		},
+		"511": {
+			"title": " 보험 가입하려는 사회초년생이면 '이것'은 꼭 알아두세요 ",
+			"url": "https://n.news.naver.com/mnews/article/469/0000740716?sid=101",
+			"writer": "한국일보"
+		}
+	}
+}
